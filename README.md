@@ -1,2 +1,2 @@
-#jp_koukai_tetuzuki
+# 日本の様式(公開)
 
