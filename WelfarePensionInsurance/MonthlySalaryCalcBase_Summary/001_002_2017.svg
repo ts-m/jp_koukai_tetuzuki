@@ -1,0 +1,157 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="210mm" height="297mm"
+    viewBox="0 0 210 297">
+  <!--
+    - 背景
+    -->
+  <g>
+    <rect x="0" y="0" width="100%" height="100%" fill="white" />
+  </g>
+
+  <!--
+    - 調整線
+    -->
+  <g fill="none" stroke="none" stroke-width="0.1">
+    <path d="M17.2,0L17.2,999M0,15.9L999,15.9" />
+    <path d="M198.3,0L198.3,999M0,281.9L999,281.9" />
+  </g>
+  
+  <!--
+    - 罫線
+    -->
+  <g id="frame" fill="black" stroke="black" stroke-width="0.2" font-size="3">
+    <!-- 表面の記入方法 -->
+    <g fill="none">
+      <path d="M17,16L26,16M61,16L198,16M17,206.5L198,206.5M17,16L17,206.5M198,16L198,206.5" />
+    </g>
+    <g stroke="none">
+      <text x="30" y="17">表面の記入方法</text>
+      <text x="20.5" y="25">◯「１．７月１日現在で、右の１～４のうち該当する区分に◯をつけてください。」欄</text>
+      <text x="20.5" y="30">　　「法人事業所（短時間適用拡大対象）とは、同一法人の被保険者数の合計が、常時５０１人以上である</text>
+      <text x="20.5" y="35">　と見込まれる事業所であって、該当となった事業所には日本年金機構から『特定適用事業所該当通知書』</text>
+      <text x="20.5" y="40">　を送付しています。</text>
+      <text x="20.5" y="45">　　なお、国・地方公共団体に属する適用事業所は、被保険者数に関わらず短時間適用拡大の対象事業所</text>
+      <text x="20.5" y="50">　となります。</text>
+      <text x="20.5" y="58">◯「２．７月１日現在、賃金・報酬を支払っている人の人数を記入してください。」欄</text>
+      <text x="20.5" y="63">　　常勤・非常勤を問わず、賃金・報酬を支払っている人数を記入します。</text>
+      <text x="20.5" y="71">◯「３．就業規則等で定めている一般従業員の勤務状況を記入してください。」欄</text>
+      <text x="20.5" y="76">　ア．「１か月の勤務日数」欄</text>
+      <text x="20.5" y="81">　　（例）週休２日の場合は、勤務日数を「２２日」と記入します。</text>
+      <text x="20.5" y="86">　イ．「１週の勤務時間」欄</text>
+      <text x="20.5" y="91">　　　勤務時間に休憩時間は含みませんので、例えば、週５日勤務で勤務時間が９時から１８時まで（休</text>
+      <text x="20.5" y="96">　　憩１時間）のときは「４０時間」と記入します。</text>
+      <text x="20.5" y="104">◯「４．７月１日現在、賃金・報酬を支払っている人のうち被保険者となっていない人の内訳を記入してください。」欄</text>
+      <text x="20.5" y="109">　ア．⑤「その他」欄</text>
+      <text x="20.5" y="114">　　　役職・嘱託など、①～③以外に該当する方について記入します。</text>
+      <text x="20.5" y="119">　イ．⑥「後期高齢者医療制度」欄</text>
+      <text x="20.5" y="124">　　　後期高齢者医療制度に加入している方について記入します。なお、①～⑤に該当する人は、再掲し</text>
+      <text x="20.5" y="129">　　てください。</text>
+      <text x="20.5" y="134">　ウ．「１か月の勤務日数」欄・「１週の勤務時間」欄</text>
+      <text x="20.5" y="139">　　　複数の該当者がいて個人差が大きいときは、最も長い人の勤務日数・勤務時間を記入します。</text>
+      <text x="20.5" y="144">　エ．「勤務（契約）期間」欄</text>
+      <text x="20.5" y="149">　　　実際に勤務している期間、又は勤務する予定の期間を記入します。（例えば、２ヶ月契</text>
+      <text x="20.5" y="154">　　約の人が１回更新しているときは、「４ヶ月」と記入してください。）</text>
+      <text x="20.5" y="162">◯「５．請負契約をしている人、派遣労働者、被保険者のうち海外で勤務している人について記入してください。」欄</text>
+      <text x="20.5" y="167">　ア．「請負契約をしている人」欄</text>
+      <text x="20.5" y="172">　　　請負契約をしている人は、業務の完成をもって報酬を得る人のことを言いますが、今回の調査では</text>
+      <text x="20.5" y="177">　　請負契約をしていて自社の施設等を利用して業務を行っている人について記入します。</text>
+      <text x="20.5" y="182">　イ．「派遣労働者」欄</text>
+      <text x="20.5" y="187">　　　労働派遣法に基づき、派遣事業者から派遣されている人について記入します。</text>
+      <text x="20.5" y="192">　ウ．「被保険者のうち海外（子会社等）で勤務している人」欄</text>
+      <text x="20.5" y="197">　　　日本国内の社会保険制度に加入したまま海外の子会社等に出向している人について記入します。</text>
+    </g>
+
+    <!-- 連絡事項 -->
+    <g fill="none">
+      <path d="M19.7,215.2L198.4,215.2M19.7,222.4L198.4,222.4M19.7,235.4L198.4,235.4M19.7,246.2L198.4,246.2M19.7,259L198.4,259M19.7,268.8L198.4,268.8M19.7,281.7L198.4,281.7M19.7,215.2L19.7,281.7M198.4,215.2L198.4,281.7M41.7,235.4L41.7,259M64.5,235.4L64.5,259M86.6,235.4L86.6,259M109,235.4L109,259M131.3,235.4L131.3,259M153.7,235.4L153.7,259M176,235.4L176,259M39.3,259L39.3,281.7M59.6,259L59.6,281.7M79.4,259L79.4,281.7M99.2,259L99.2,281.7M118.9,259L118.9,281.7M138.9,259L138.9,281.7M158.7,259L158.7,281.7M178.6,259L178.6,281.7" />
+    </g>
+    <g stroke="none">
+      <text x="20.7" y="213.2">この欄は、年金事務所で使用しますので記入しないでください。</text>
+      <text text-anchor="middle" x="109.05" y="219.3">連絡事項</text>
+      <text text-anchor="middle" x="30.7" y="239.3">資格取得届</text>
+      <text text-anchor="middle" x="30.7" y="242.3">提出もれ</text>
+      <text text-anchor="middle" x="53.1" y="239.3">資格喪失届</text>
+      <text text-anchor="middle" x="53.1" y="242.3">提出もれ</text>
+      <text text-anchor="middle" x="75.55" y="239.3">資格取得</text>
+      <text text-anchor="middle" x="75.55" y="242.3">年月日訂正</text>
+      <text text-anchor="middle" x="97.8" y="239.3">資格喪失</text>
+      <text text-anchor="middle" x="97.8" y="242.3">年月日訂正</text>
+      <text text-anchor="middle" x="120.15" y="239.3">７０歳以上</text>
+      <text text-anchor="middle" x="120.15" y="242.3">該当もれ</text>
+      <text text-anchor="middle" x="142.5" y="239.3">７０歳以上</text>
+      <text text-anchor="middle" x="142.5" y="242.3">不該当もれ</text>
+      <text text-anchor="middle" x="164.85" y="241.3">その他</text>
+      <text text-anchor="middle" x="187.2" y="241.3">合計</text>
+      <text text-anchor="middle" x="29.5" y="262.9">資格取得時</text>
+      <text text-anchor="middle" x="29.5" y="265.9">報酬訂正</text>
+      <text text-anchor="middle" x="49.45" y="262.9">月額変更届</text>
+      <text text-anchor="middle" x="49.45" y="265.9">提出もれ</text>
+      <text text-anchor="middle" x="69.5" y="262.9">月額変更届</text>
+      <text text-anchor="middle" x="69.5" y="265.9">訂正</text>
+      <text text-anchor="middle" x="89.3" y="262.9">算定基礎届</text>
+      <text text-anchor="middle" x="89.3" y="265.9">提出もれ</text>
+      <text text-anchor="middle" x="109.05" y="262.9">算定基礎届</text>
+      <text text-anchor="middle" x="109.05" y="265.9">訂正</text>
+      <text text-anchor="middle" x="128.9" y="262.9">賞与支払届</text>
+      <text text-anchor="middle" x="128.9" y="265.9">提出もれ</text>
+      <text text-anchor="middle" x="148.8" y="262.9">賞与支払届</text>
+      <text text-anchor="middle" x="148.8" y="265.9">訂正</text>
+      <text text-anchor="middle" x="168.65" y="264.4">その他</text>
+      <text text-anchor="middle" x="188.5" y="264.4">合計</text>
+    </g>
+
+    <!-- 注意事項等 -->
+    <g stroke="none" font-size="2">
+      <text x="187.1" y="288.7">1705 1031 003</text>
+    </g>
+  </g>
+  
+  <!--
+    - 入力
+    -->
+  <g id="forms" fill="blue" stroke="blue" stroke-width="0.2" font-size="3" font-family="monospace">
+    
+  </g>
+  
+  <defs>
+    <g id="barcode" fill="black" transform="scale(0.426 0.54)">
+      <rect x="0" y="0" height="20" width="1" /><rect x="3" y="0" height="20" width="1" /><rect x="5" y="0" height="20" width="2" /><rect x="8" y="0" height="20" width="2" /><rect x="11" y="0" height="20" width="1" /><rect x="13" y="0" height="20" width="1" /><rect x="15" y="0" height="20" width="2" /><rect x="19" y="0" height="20" width="1" /><rect x="21" y="0" height="20" width="1" /><rect x="23" y="0" height="20" width="2" /><rect x="26" y="0" height="20" width="1" /><rect x="28" y="0" height="20" width="2" /><rect x="32" y="0" height="20" width="1" /><rect x="34" y="0" height="20" width="1" /><rect x="36" y="0" height="20" width="2" /><rect x="39" y="0" height="20" width="1" /><rect x="41" y="0" height="20" width="2" /><rect x="45" y="0" height="20" width="1" /><rect x="47" y="0" height="20" width="1" /><rect x="49" y="0" height="20" width="2" /><rect x="52" y="0" height="20" width="1" /><rect x="54" y="0" height="20" width="2" /><rect x="58" y="0" height="20" width="1" /><rect x="60" y="0" height="20" width="2" /><rect x="63" y="0" height="20" width="1" /><rect x="65" y="0" height="20" width="1" /><rect x="67" y="0" height="20" width="1" /><rect x="70" y="0" height="20" width="2" /><rect x="73" y="0" height="20" width="2" /><rect x="76" y="0" height="20" width="1" /><rect x="78" y="0" height="20" width="1" /><rect x="80" y="0" height="20" width="1" /><rect x="83" y="0" height="20" width="2" /><rect x="86" y="0" height="20" width="2" /><rect x="89" y="0" height="20" width="1" /><rect x="91" y="0" height="20" width="1" /><rect x="93" y="0" height="20" width="1" /><rect x="96" y="0" height="20" width="2" /><rect x="99" y="0" height="20" width="2" /><rect x="102" y="0" height="20" width="1" /><rect x="104" y="0" height="20" width="1" /><rect x="107" y="0" height="20" width="1" /><rect x="109" y="0" height="20" width="2" /><rect x="112" y="0" height="20" width="2" /><rect x="115" y="0" height="20" width="1" />
+    </g>
+    <g id="c-a" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">A</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-b" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">B</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-c" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">C</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-d" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">D</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-e" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">E</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-mi" fill="black" stroke="black">
+      <text font-size="1.5" stroke="none" x="0.2" y="0.2">ミ</text>
+      <circle fill="none" stroke-width="0.05" cx="0.9" cy="0" r="0.9" />
+    </g>
+    <g id="c-mu" fill="black" stroke="black">
+      <text font-size="1.5" stroke="none" x="0.2" y="0.2">ム</text>
+      <circle fill="none" stroke-width="0.05" cx="0.9" cy="0" r="0.9" />
+    </g>
+    <g id="c-stamp" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">印</text>
+      <circle fill="none" cx="1" cy="-1" r="2" />
+    </g>
+  </defs>
+</svg>

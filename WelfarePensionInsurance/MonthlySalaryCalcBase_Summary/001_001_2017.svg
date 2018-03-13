@@ -1,0 +1,398 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="210mm" height="297mm"
+    viewBox="0 0 210 297">
+  <!--
+    - 罫線
+    -->
+  <g id="frame" fill="black" stroke="black" stroke-width="0.2" font-size="3">
+    <!-- タイトル -->
+    <g stroke="none" font-size="3.5">
+      <text x="28.8" y="10.9">健康保険</text>
+      <text x="28.8" y="15.1">厚生年金保険</text>
+      <text x="56.4" y="13">被保険者報酬月額算定基礎届</text>
+      <text font-size="4" x="111.7" y="13">総括表附表（雇用に関する調査票）</text>
+    </g>
+    
+    <!-- 事業所整理記号 -->
+    <g fill="none">
+      <path d="M22.6,19.5L78.1,19.5M22.6,23.6L78.1,23.6M22.6,27.6L33.8,27.6M22.6,32.6L78.1,32.6M22.6,19.5L22.6,32.6M33.8,23.6L33.8,32.6M53.2,19.5L53.2,32.6M78.1,19.5L78.1,32.6" />
+      <path stroke-dasharray="0.2 0.2" d="M28,27.6L28,32.6M38.6,23.6L38.6,32.6M43.4,23.6L43.4,32.6M48.3,23.6L48.3,32.6M58,23.6L58,32.6M63.1,23.6L63.1,32.6M68.1,23.6L68.1,32.6M73.1,23.6L73.1,32.6" />
+      <path stroke-width="0.4" d="" />
+    </g>
+    <g stroke="none">
+      <text text-anchor="middle" x="37.9" y="22.05">事業所整理記号</text>
+      <text text-anchor="middle" x="65.65" y="22.05">事業所番号</text>
+    </g>
+    
+    <!-- １．７月１日現在で～ -->
+    <g fill="none">
+      <path d="M141.2,27.3L184.9,27.3M141.2,55L184.9,55.1M141.2,27.3L141.2,55M184.9,27.3L184.9,55" />
+    </g>
+    <g stroke="none">
+      <text x="23.6" y="42.1">１．７月１日現在で、右の１～４のうち該当する区分に〇をつけてください。</text>
+      <text x="142.2" y="32">１．法人事業所</text>
+      <text x="142.2" y="35">　（短時間適用拡大対象）</text>
+      <text x="142.2" y="38">２．法人事業所</text>
+      <text x="142.2" y="41">　（短時間適用拡大対象以外）</text>
+      <text x="142.2" y="44">３．国・地方公共団体に属する</text>
+      <text x="142.2" y="47">　　適用事業所</text>
+      <text x="142.2" y="50">４．個人事業所</text>
+    </g>
+    
+    <!-- ２．７月１日現在、～ -->
+    <g fill="none">
+      <path d="M141.2,59.8L184.9,59.8M141.2,65.1L184.9,65.1M141.2,59.8L141.2,65.1M184.9,59.8L184.9,65.1" />
+    </g>
+    <g stroke="none">
+      <text x="23.6" y="63.1">２．７月１日現在、賃金・報酬を支払っている人の人数を記入してください。</text>
+      <text text-anchor="end" x="183.9" y="63.1">人</text>
+    </g>
+    
+    <!-- ３．就業規則等で～ -->
+    <g fill="none">
+      <path d="M112,69.9L184.9,69.9M112,75.2L184.9,75.2M112,80.6L184.9,80.6M112,69.9L112,80.6M150.9,69.9L150.9,80.6M184.9,69.9L184.9,80.6" />
+    </g>
+    <g stroke="none">
+      <text x="23.6" y="74.6">３．就業規則等で定めている一般従業員の勤務状況を</text>
+      <text x="23.6" y="78.6">　　記入して下さい。</text>
+      <text text-anchor="middle" x="131.45" y="72.5">１か月の勤務日数</text>
+      <text text-anchor="end" x="149.9" y="78.6">日</text>
+      <text text-anchor="middle" x="167.9" y="72.5">１週の勤務時間</text>
+      <text text-anchor="end" x="183.9" y="78.6">時間</text>
+    </g>
+    
+    <!-- ４．７月１日現在、～ -->
+    <g fill="none">
+      <path d="M22.6,103.9L184.9,103.9M53.1,109L184.9,109M22.6,114.3L184.9,114.3M22.6,121.7L184.9,121.7M22.6,129L184.9,129M22.6,136.2L184.9,136.2M22.6,143.8L184.9,143.8M22.6,151.2L184.9,151.2M22.6,158.5L112,158.5M22.6,103.9L22.6,158.5M53.1,103.9L53.1,158.5M112,103.9L112,158.5M184.9,103.9L184.9,151.2M68.2,109L68.2,151.2M82.9,109L82.9,151.2M97.4,109L97.4,151.2M136.3,109L136.3,151.2M160.6,109L160.6,151.2" />
+    </g>
+    <g stroke="none" font-size="2.5" letter-spacing="-0.5">
+      <text font-size="3" x="23.6" y="93.9">４．７月１日現在、賃金・報酬を支払っている人のうち被保険者となっていない人の内訳を記入して</text>
+      <text font-size="3" x="23.6" y="97.9">　　ください。（協会管掌健康保険又は厚生年金保険のいずれにも加入していない人の人数を記入して</text>
+      <text font-size="3" x="23.6" y="101.9">　　ください。）</text>
+      <text text-anchor="middle" x="37.85" y="109.1">勤務形態</text>
+      <text text-anchor="middle" x="82.55" y="106.45">人数</text>
+      <text text-anchor="middle" x="60.65" y="111.65">５９歳以下</text>
+      <text text-anchor="middle" x="75.55" y="111.65">６０～６９歳</text>
+      <text text-anchor="middle" x="90.15" y="111.65">７０歳以上</text>
+      <text text-anchor="middle" x="104.7" y="111.65">合計</text>
+      <text text-anchor="middle" x="148.45" y="106.45">平均的な勤務状況</text>
+      <text text-anchor="middle" x="124.15" y="111.65">１か月の勤務日数</text>
+      <text text-anchor="middle" x="148.45" y="111.65">１週の勤務時間</text>
+      <text text-anchor="middle" x="172.75" y="111.65">勤務（契約）期間</text>
+      <text text-anchor="middle" x="24.6" y="118">①</text>
+      <text text-anchor="middle" x="38.85" y="117">１週の勤務時間</text>
+      <text text-anchor="middle" x="38.85" y="119.5">３０時間以上</text>
+      <text text-anchor="end" x="67.2" y="119.7">人</text>
+      <text text-anchor="end" x="81.9" y="119.7">人</text>
+      <text text-anchor="end" x="96.4" y="119.7">人</text>
+      <text text-anchor="end" x="111" y="119.7">人</text>
+      <text text-anchor="end" x="135.3" y="119.7">日</text>
+      <text text-anchor="end" x="159.6" y="119.7">時間</text>
+      <text text-anchor="end" x="183.9" y="119.7">ヶ月・定めなし</text>
+      <text text-anchor="middle" x="24.6" y="125.35">②</text>
+      <text text-anchor="middle" x="38.85" y="124.35">１週の勤務時間２０時</text>
+      <text text-anchor="middle" x="38.85" y="126.85">間以上３０時間未満</text>
+      <text text-anchor="end" x="67.2" y="127">人</text>
+      <text text-anchor="end" x="81.9" y="127">人</text>
+      <text text-anchor="end" x="96.4" y="127">人</text>
+      <text text-anchor="end" x="111" y="127">人</text>
+      <text text-anchor="end" x="135.3" y="127">日</text>
+      <text text-anchor="end" x="159.6" y="127">時間</text>
+      <text text-anchor="end" x="183.9" y="127">ヶ月・定めなし</text>
+      <text text-anchor="middle" x="24.6" y="132.6">③</text>
+      <text text-anchor="middle" x="38.85" y="131.6">１週の勤務時間</text>
+      <text text-anchor="middle" x="38.85" y="134.1">２０時間未満</text>
+      <text text-anchor="end" x="67.2" y="134.2">人</text>
+      <text text-anchor="end" x="81.9" y="134.2">人</text>
+      <text text-anchor="end" x="96.4" y="134.2">人</text>
+      <text text-anchor="end" x="111" y="134.2">人</text>
+      <text text-anchor="end" x="135.3" y="134.2">日</text>
+      <text text-anchor="end" x="159.6" y="134.2">時間</text>
+      <text text-anchor="end" x="183.9" y="134.2">ヶ月・定めなし</text>
+      <text text-anchor="middle" x="24.6" y="140">④</text>
+      <text text-anchor="middle" x="38.85" y="140">外国人労働者</text>
+      <text text-anchor="end" x="67.2" y="141.8">人</text>
+      <text text-anchor="end" x="81.9" y="141.8">人</text>
+      <text text-anchor="end" x="96.4" y="141.8">人</text>
+      <text text-anchor="end" x="111" y="141.8">人</text>
+      <text text-anchor="end" x="135.3" y="141.8">日</text>
+      <text text-anchor="end" x="159.6" y="141.8">時間</text>
+      <text text-anchor="end" x="183.9" y="141.8">ヶ月・定めなし</text>
+      <text text-anchor="middle" x="24.6" y="147.5">⑤</text>
+      <text text-anchor="middle" x="38.85" y="146.5">その他</text>
+      <text text-anchor="middle" x="38.85" y="149">（役員・嘱託等）</text>
+      <text text-anchor="end" x="67.2" y="149.2">人</text>
+      <text text-anchor="end" x="81.9" y="149.2">人</text>
+      <text text-anchor="end" x="96.4" y="149.2">人</text>
+      <text text-anchor="end" x="111" y="149.2">人</text>
+      <text text-anchor="end" x="135.3" y="149.2">日</text>
+      <text text-anchor="end" x="159.6" y="149.2">時間</text>
+      <text text-anchor="end" x="183.9" y="149.2">ヶ月・定めなし</text>
+      <text text-anchor="middle" x="24.6" y="154.85">⑥</text>
+      <text text-anchor="middle" x="38.85" y="153.85">後期高齢者医療制度</text>
+      <text text-anchor="middle" x="38.85" y="156.35">に加入している人</text>
+      <text text-anchor="end" x="111" y="156.5">人</text>
+    </g>
+    
+    <!-- ５．請負契約をしている人～ -->
+    <g fill="none">
+      <path d="M22.6,175.7L184.9,175.7M22.6,186.2L184.9,186.2M22.6,191.4L184.9,191.4M22.6,196.6L184.9,196.6M22.6,175.7L22.6,196.6M112,175.7L112,196.6M184.9,175.7L184.9,196.6" />
+    </g>
+    <g stroke="none">
+      <text x="23.6" y="173.7">５．請負契約をしている人、派遣労働者、被保険者のうち海外で勤務している人について記入してください。</text>
+      <text x="23.6" y="179.45">請負契約をしていて、自社の施設等を利用し業務を行わせて</text>
+      <text x="23.6" y="182.45">いる人がいる。</text>
+      <text x="113" y="184.2">いない・いる（</text>
+      <text text-anchor="end" x="183.9" y="184.2">人）</text>
+      <text x="23.6" y="188.8">派遣業者から派遣されている労働者がいる。</text>
+      <text x="113" y="189.4">いない・いる（</text>
+      <text text-anchor="end" x="183.9" y="189.4">人）</text>
+      <text x="23.6" y="194">海外（子会社等）で勤務している人がいる。</text>
+      <text x="113" y="194.6">いない・いる（</text>
+      <text text-anchor="end" x="183.9" y="194.6">人）</text>
+    </g>
+    
+    <!-- ６．７月１日現在の事業所の適用形態について記入してください。 -->
+    <g fill="none">
+      <path d="M22.6,205L184.9,205M22.6,214.3L184.9,214.3M28,219.5L184.9,219.5M28,224.7L184.9,224.7M22.6,230L184.9,230M22.6,205L22.6,230M136.4,205L136.4,214.3M184.9,205L184.9,230M28,219.5L28,230M136.4,219.5L136.4,230" />
+    </g>
+    <g stroke="none" font-size="2.5" letter-spacing="-0.5">
+      <text font-size="3" x="23.6" y="203">６．７月１日現在の事業所の適用形態について記入してください。</text>
+      <text x="23.6" y="207.9">①貴事業所と法人番号が同一の支社（店）、工場、出張所など複数の事業所を有している。</text>
+      <text x="23.6" y="210.4">（貴事業所が支社等の場合は、「いいえ」に〇を付けてください。）</text>
+      <text x="137.4" y="209.65">はい・いいえ</text>
+      <text x="23.6" y="216.9">②上記①で「はい」と回答された場合に記入してください。</text>
+      <text x="29" y="222.1">支社（店）、工場、出張所などの総数。</text>
+      <text text-anchor="end" x="183.9" y="222.1">か所</text>
+      <text x="29" y="227.35">複数の事業所は、それぞれ事業所単位で適用されている。</text>
+      <text x="137.4" y="227.35">はい・いいえ</text>
+    </g>
+    
+    <!-- 事業所所在地等 -->
+    <g fill="none">
+      <path d="M22.6,234L141.2,234M22.6,270.4L141.2,270.4M22.6,234L22.6,270.4M141.2,234L141.2,270.4" />
+    </g>
+    <g stroke="none">
+      <text x="23.6" y="240.4">事業所所在地</text>
+      <text x="23.6" y="250.4">事業所名称</text>
+      <text x="23.6" y="260.4">事業主氏名</text>
+    </g>
+    
+    <!-- 提出年月日 -->
+    <g stroke="none">
+      <text x="147.4" y="238.5">平成</text>
+      <text x="158.8" y="238.5">年</text>
+      <text x="166.7" y="238.5">月</text>
+      <text x="174.9" y="238.5">日提出</text>
+    </g>
+    
+    <!-- 受付日付印 -->
+    <g fill="none">
+      <path stroke-dasharray="0.2 0.2" d="M146,251L151,245.5L180.5,245.5L185.5,251" />
+    </g>
+    <g stroke="none" text-anchor="middle">
+      <text x="165.6" y="248.4">受付日付印</text>
+    </g>
+
+    <!-- 注意書き等 -->
+    <g fill="none">
+      <path stroke-dasharray="0.2 0.2" d="M131.4,275.1L190,275.1M131.4,283.3L190,283.3M131.4,275.1L131.4,283.3M190,275.1L190,283.3" />
+    </g>
+    <g stroke="none">
+      <text x="23.6" y="161.5">注１：該当者がいない場合は、合計欄に０人と記入してください。</text>
+      <text x="23.6" y="165.5">注２：①、②、③、の欄については、「外国人労働者」を除いた人数を記入してください。</text>
+      <text x="23.6" y="273.4">提出上の注意</text>
+      <text x="23.6" y="277.4">・算定基礎届を提出する際に総括表と同時に提出してください。</text>
+      <text x="23.6" y="281.4">・該当者がいない場合でも提出してください。</text>
+      <text text-anchor="middle" x="160.7" y="279.2">記入方法は裏面を参照してください。</text>
+      <text x="187.6" y="288.4">1705 1031 003</text>
+    </g>
+  </g>
+  
+  <!--
+    - 入力
+    -->
+  <g id="forms" fill="blue" stroke="blue" stroke-width="0.2" font-size="3" font-family="monospace">
+    <!-- 事業所整理記号 -->
+    <g stroke="none" font-size="2">
+      <text text-anchor="middle" x="28.2" y="25.6">渋</text>
+      <text font-size="4" letter-spacing="2.8" x="35.8" y="28.1">0123</text>
+      <text font-size="4" letter-spacing="3" x="55.2" y="28.1">01234</text>
+    </g>
+    
+    <!-- １．７月１日現在で～ -->
+    <g fill="none">
+      <ellipse cx="148.2" cy="32" rx="6" ry="1.5" />
+      <ellipse cx="148.2" cy="38" rx="6" ry="1.5" />
+      <ellipse cx="148.2" cy="44" rx="6" ry="1.5" />
+      <ellipse cx="148.2" cy="50" rx="6" ry="1.5" />
+    </g>
+    
+    <!-- ２．７月１日現在、～ -->
+    <g stroke="none">
+      <text text-anchor="end" x="179.9" y="62.95">01234</text>
+    </g>
+    
+    <!-- ３．就業規則等で～ -->
+    <g stroke="none">
+      <text text-anchor="end" x="145.9" y="78.4">012</text>
+      <text text-anchor="end" x="176.9" y="78.4">012</text>
+    </g>
+    
+    <!-- ４．７月１日現在、～ -->
+    <g fill="none">
+      <!-- ① -->
+      <ellipse cx="179.9" cy="119.7" rx="4" ry="1.5" />
+      
+      <!-- ② -->
+      <ellipse cx="179.9" cy="127" rx="4" ry="1.5" />
+      
+      <!-- ③ -->
+      <ellipse cx="179.9" cy="134.2" rx="4" ry="1.5" />
+      
+      <!-- ④ -->
+      <ellipse cx="179.9" cy="141.8" rx="4" ry="1.5" />
+      
+      <!-- ⑤ -->
+      <ellipse cx="179.9" cy="149.2" rx="4" ry="1.5" />
+    </g>
+    <g stroke="none">
+      <!-- ① -->
+      <text text-anchor="end" x="63.7" y="118.5">012</text>
+      <text text-anchor="end" x="78.4" y="118.5">012</text>
+      <text text-anchor="end" x="92.9" y="118.5">012</text>
+      <text text-anchor="end" x="107.5" y="118.5">012</text>
+      <text text-anchor="end" x="131.8" y="118.5">012</text>
+      <text text-anchor="end" x="153.6" y="118.5">012</text>
+      <text text-anchor="end" x="166.4" y="118.5">012</text>
+
+      <!-- ② -->
+      <text text-anchor="end" x="63.7" y="125.85">012</text>
+      <text text-anchor="end" x="78.4" y="125.85">012</text>
+      <text text-anchor="end" x="92.9" y="125.85">012</text>
+      <text text-anchor="end" x="107.5" y="125.85">012</text>
+      <text text-anchor="end" x="131.8" y="125.85">012</text>
+      <text text-anchor="end" x="153.6" y="125.85">012</text>
+      <text text-anchor="end" x="166.4" y="125.85">012</text>
+
+      <!-- ③ -->
+      <text text-anchor="end" x="63.7" y="133.1">012</text>
+      <text text-anchor="end" x="78.4" y="133.1">012</text>
+      <text text-anchor="end" x="92.9" y="133.1">012</text>
+      <text text-anchor="end" x="107.5" y="133.1">012</text>
+      <text text-anchor="end" x="131.8" y="133.1">012</text>
+      <text text-anchor="end" x="153.6" y="133.1">012</text>
+      <text text-anchor="end" x="166.4" y="133.1">012</text>
+
+      <!-- ④ -->
+      <text text-anchor="end" x="63.7" y="140.5">012</text>
+      <text text-anchor="end" x="78.4" y="140.5">012</text>
+      <text text-anchor="end" x="92.9" y="140.5">012</text>
+      <text text-anchor="end" x="107.5" y="140.5">012</text>
+      <text text-anchor="end" x="131.8" y="140.5">012</text>
+      <text text-anchor="end" x="153.6" y="140.5">012</text>
+      <text text-anchor="end" x="166.4" y="140.5">012</text>
+
+      <!-- ⑤ -->
+      <text text-anchor="end" x="63.7" y="148">012</text>
+      <text text-anchor="end" x="78.4" y="148">012</text>
+      <text text-anchor="end" x="92.9" y="148">012</text>
+      <text text-anchor="end" x="107.5" y="148">012</text>
+      <text text-anchor="end" x="131.8" y="148">012</text>
+      <text text-anchor="end" x="153.6" y="148">012</text>
+      <text text-anchor="end" x="166.4" y="148">012</text>
+
+      <!-- ⑥ -->
+      <text text-anchor="end" x="107.5" y="155.35">012</text>
+    </g>
+    
+    <!-- ５．請負契約を～ -->
+    <g fill="none">
+      <ellipse cx="117.5" cy="184.2" rx="3" ry="1.5" />
+      <ellipse cx="128" cy="184.2" rx="2" ry="1.5" />
+      
+      <ellipse cx="117.5" cy="189.4" rx="3" ry="1.5" />
+      <ellipse cx="128" cy="189.4" rx="2" ry="1.5" />
+      
+      <ellipse cx="117.5" cy="194.6" rx="3" ry="1.5" />
+      <ellipse cx="128" cy="194.6" rx="2" ry="1.5" />
+    </g>
+    <g stroke="none">
+      <text text-anchor="end" x="176.4" y="184.2">01234</text>
+
+      <text text-anchor="end" x="176.4" y="189.4">01234</text>
+
+      <text text-anchor="end" x="176.4" y="194.6">01234</text>
+    </g>
+    
+    <!-- ６．７月１日現在の～ -->
+    <g fill="none">
+      <!-- ① -->
+      <ellipse cx="139.9" cy="209.65" rx="2" ry="1.5" />
+      <ellipse cx="148.65" cy="209.65" rx="3" ry="1.5" />
+      
+      <!-- ② -->
+      <ellipse cx="139.9" cy="227.35" rx="2" ry="1.5" />
+      <ellipse cx="148.65" cy="227.35" rx="3" ry="1.5" />
+    </g>
+    <g stroke="none">
+      <text text-anchor="end" x="177.9" y="222.6">01234</text>
+    </g>
+    
+    <!-- 事業所所在地等 -->
+    <g stroke="none">
+      <text x="42.6" y="240.4">東京都〇〇区〇〇町　１－２－３</text>
+      <text x="42.6" y="250.4">〇〇事業所</text>
+      <text x="42.6" y="260.4">保険　太郎</text>
+    </g>
+
+    <!-- 提出年月日 -->
+    <g stroke="none">
+      <text text-anchor="end" x="158.3" y="239">01</text>
+      <text text-anchor="end" x="166.2" y="239">01</text>
+      <text text-anchor="end" x="174.4" y="239">01</text>
+    </g>
+  </g>
+  
+  <defs>
+    <g id="barcode" fill="black" transform="scale(0.426 0.54)">
+      <rect x="0" y="0" height="20" width="1" /><rect x="3" y="0" height="20" width="1" /><rect x="5" y="0" height="20" width="2" /><rect x="8" y="0" height="20" width="2" /><rect x="11" y="0" height="20" width="1" /><rect x="13" y="0" height="20" width="1" /><rect x="15" y="0" height="20" width="2" /><rect x="19" y="0" height="20" width="1" /><rect x="21" y="0" height="20" width="1" /><rect x="23" y="0" height="20" width="2" /><rect x="26" y="0" height="20" width="1" /><rect x="28" y="0" height="20" width="2" /><rect x="32" y="0" height="20" width="1" /><rect x="34" y="0" height="20" width="1" /><rect x="36" y="0" height="20" width="2" /><rect x="39" y="0" height="20" width="1" /><rect x="41" y="0" height="20" width="2" /><rect x="45" y="0" height="20" width="1" /><rect x="47" y="0" height="20" width="1" /><rect x="49" y="0" height="20" width="2" /><rect x="52" y="0" height="20" width="1" /><rect x="54" y="0" height="20" width="2" /><rect x="58" y="0" height="20" width="1" /><rect x="60" y="0" height="20" width="2" /><rect x="63" y="0" height="20" width="1" /><rect x="65" y="0" height="20" width="1" /><rect x="67" y="0" height="20" width="1" /><rect x="70" y="0" height="20" width="2" /><rect x="73" y="0" height="20" width="2" /><rect x="76" y="0" height="20" width="1" /><rect x="78" y="0" height="20" width="1" /><rect x="80" y="0" height="20" width="1" /><rect x="83" y="0" height="20" width="2" /><rect x="86" y="0" height="20" width="2" /><rect x="89" y="0" height="20" width="1" /><rect x="91" y="0" height="20" width="1" /><rect x="93" y="0" height="20" width="1" /><rect x="96" y="0" height="20" width="2" /><rect x="99" y="0" height="20" width="2" /><rect x="102" y="0" height="20" width="1" /><rect x="104" y="0" height="20" width="1" /><rect x="107" y="0" height="20" width="1" /><rect text-anchor="end" x="111" y="0" height="20" width="2" /><rect x="112" y="0" height="20" width="2" /><rect x="115" y="0" height="20" width="1" />
+    </g>
+    <g id="c-a" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">A</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-b" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">B</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-c" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">C</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-d" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">D</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-e" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">E</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-mi" fill="black" stroke="black">
+      <text font-size="1.5" stroke="none" x="0.2" y="0.2">ミ</text>
+      <circle fill="none" stroke-width="0.05" cx="0.9" cy="0" r="0.9" />
+    </g>
+    <g id="c-mu" fill="black" stroke="black">
+      <text font-size="1.5" stroke="none" x="0.2" y="0.2">ム</text>
+      <circle fill="none" stroke-width="0.05" cx="0.9" cy="0" r="0.9" />
+    </g>
+    <g id="c-stamp" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">印</text>
+      <circle fill="none" cx="1" cy="-1" r="2" />
+    </g>
+  </defs>
+</svg>
