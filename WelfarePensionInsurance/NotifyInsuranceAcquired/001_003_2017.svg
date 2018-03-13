@@ -1,0 +1,775 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="297mm" height="210mm" viewBox="0 0 297 210">
+	<defs>
+	  <g id="sousin">
+		<rect x="0" y="0" width="5.5" height="15" />
+	  </g>
+	</defs>
+	<!--
+	  - 背景
+	  -->
+	<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+	
+    <g fill="blue" stroke="blue" stroke-width="0.2" font-size="3" font-family="sans-serif">
+	  <!--
+	    - 入力テキスト
+		-->
+	  
+	  <!-- １厚生年金保険事業所整理記号 -->
+	  <g data-tmpnum="1" stroke="none">
+	    <text x="27" y="27">港</text>
+	    <text x="35" y="32" font-size="4.4" letter-spacing="2">T3TY</text>
+	  </g>
+	  
+	  <!-- ２厚生年金保険事業所番号 -->
+	  <g data-tmpnum="2" stroke="none" font-size="4">
+	    <text letter-spacing="2.4" x="53.5" y="32">01234</text>
+	    <text letter-spacing="2.4" x="76.5" y="32">1119</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：３健康保険被保険者証の番号 -->
+	  <g data-tmpnum="3" stroke="none" font-size="4" letter-spacing="0">
+	    <text x="27" y="70">61</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：４被保険者の氏名 -->
+	  <g data-tmpnum="4" stroke="none" letter-spacing="0">
+	    <text x="47" y="57">シブヤ</text>
+	    <text x="73" y="57">タロウ</text>
+	    <text x="47" y="66">渋谷</text>
+	    <text x="61" y="66">D</text>
+	    <text x="73" y="66">太郎</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：５被保険者の生年月日 -->
+	  <g data-tmpnum="5" font-size="4" letter-spacing="1.25">
+	    <g id="f5-1-1" fill="none">
+	      <ellipse cx="97" cy="60" rx="3" ry="2" />
+	      <ellipse cx="97" cy="64.5" rx="3" ry="2" />
+	    </g>
+	    <text letter-spacing="2" stroke="none" x="101.5" y="65.5">530804</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：６被保険者の生年月日 -->
+	  <g data-tmpnum="6">
+	    <g id="f6-1-1" fill="none">
+	      <ellipse cx="127" cy="58" rx="2" ry="2" />
+	      <ellipse cx="127" cy="64" rx="2" ry="2" />
+	    </g>
+	  </g>
+	  
+	  <!-- 入力ブロック１：１０資格取得の年月日 -->
+	  <g data-tmpnum="9" stroke="none" letter-spacing="0">
+	    <text x="195" y="65.5" font-size="4" letter-spacing="2">290401</text>
+	    <text x="225" y="57">291.500</text>
+	    <text x="225" y="62">6.500</text>
+	    <text x="225" y="67">298.000</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：１１標準報酬月額 -->
+	  <g data-tmpnum="10" stroke="none" letter-spacing="0">
+	    <text x="249" y="58.5">300</text>
+	    <text x="249" y="66">300</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：１２被扶養者届の添付の有無 -->
+	  <g data-tmpnum="11">
+	    <g id="f11-1-1" fill="none" stroke="blue">
+	      <ellipse cx="265.75" cy="59" rx="2" ry="2" />
+	      <ellipse cx="265.75" cy="65" rx="2" ry="2" />
+		</g>
+	  </g>
+	  
+	  <!-- 入力ブロック１：１６郵便番号 -->
+	  <g data-tmpnum="12" stroke="none" letter-spacing="2.4">
+	    <text x="51.5" y="73.5">1698516</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１：被保険者住所 -->
+	  <g data-tmpnum="13" stroke="none">
+	    <text x="102.5" y="72.5" font-size="2" letter-spacing="0">トウキョウト</text>
+	    <text x="121" y="72.5" font-size="2" letter-spacing="0">シンジュククヒャクニンチョウト 2-27-6</text>
+	    <text x="97.5" y="80" font-size="4" letter-spacing="0">東京</text>
+	    <text x="121.5" y="80" font-size="4" letter-spacing="0">新宿区百人町 2-27-6</text>
+		<g id="f13-1-5" fill="none" stroke="blue">
+	      <ellipse cx="115.25" cy="75.75" rx="1.5" ry="1.5" />
+	      <ellipse cx="118.75" cy="75.75" rx="1.5" ry="1.5" />
+	      <ellipse cx="115.25" cy="79.25" rx="1.5" ry="1.5" />
+	      <ellipse cx="118.75" cy="79.25" rx="1.5" ry="1.5" />
+		</g>
+	  </g>
+	  
+	  <!-- 入力ブロック１：備考 -->
+	  <g data-tmpnum="14" letter-spacing="0">
+	    <path id="f14-1-1" fill="none" d="M239.2,74.3L240.8,75.7L242.6,73.6" />
+	    <text stroke="none" x="240" y="80.5">備考記入欄</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：３健康保険被保険者証の番号 -->
+	  <g data-tmpnum="3" stroke="none" font-size="4" letter-spacing="0">
+	    <text x="27" y="101">61</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：４被保険者の氏名 -->
+	  <g data-tmpnum="4" stroke="none" letter-spacing="0">
+	    <text x="47" y="88">シブヤ</text>
+	    <text x="73" y="88">タロウ</text>
+	    <text x="47" y="97">渋谷</text>
+	    <text x="61" y="97">D</text>
+	    <text x="73" y="97">太郎</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：５被保険者の生年月日 -->
+	  <g data-tmpnum="5" font-size="4" letter-spacing="1.25">
+	    <g id="f5-2-1" fill="none">
+	      <ellipse cx="97" cy="91" rx="3" ry="2"></ellipse>
+	      <ellipse cx="97" cy="95.5" rx="3" ry="2"></ellipse>
+	    </g>
+	    <text letter-spacing="2" stroke="none" x="101.5" y="96.5">530804</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：６被保険者の生年月日 -->
+	  <g data-tmpnum="6">
+	    <g id="f6-2-1" fill="none">
+	      <ellipse cx="127" cy="89" rx="2" ry="2"></ellipse>
+	      <ellipse cx="127" cy="95" rx="2" ry="2"></ellipse>
+	    </g>
+	  </g>
+	  
+	  <!-- 入力ブロック２：１０資格取得の年月日 -->
+	  <g data-tmpnum="9" stroke="none" letter-spacing="0">
+	    <text x="195" y="96.5" font-size="4" letter-spacing="2">290401</text>
+	    <text x="225" y="88">291.500</text>
+	    <text x="225" y="93">6.500</text>
+	    <text x="225" y="98">298.000</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：１１標準報酬月額 -->
+	  <g data-tmpnum="10" stroke="none" letter-spacing="0">
+	    <text x="249" y="89.5">300</text>
+	    <text x="249" y="97">300</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：１２被扶養者届の添付の有無 -->
+	  <g data-tmpnum="11">
+	    <g id="f11-2-1" fill="none">
+	      <ellipse cx="265.75" cy="90" rx="2" ry="2"></ellipse>
+	      <ellipse cx="265.75" cy="96" rx="2" ry="2"></ellipse>
+		</g>
+	  </g>
+	  
+	  <!-- 入力ブロック２：１６郵便番号 -->
+	  <g data-tmpnum="12" stroke="none" letter-spacing="2.4">
+	    <text x="51.5" y="104.5">1698516</text>
+	  </g>
+	  
+	  <!-- 入力ブロック２：被保険者住所 -->
+	  <g data-tmpnum="13" stroke="none" font-size="2" letter-spacing="0">
+	    <text x="102.5" y="103.5">トウキョウト</text>
+	    <text x="121" y="103.5">シンジュククヒャクニンチョウト 2-27-6</text>
+	    <text x="97.5" y="111" font-size="4">東京</text>
+	    <text x="121.5" y="111" font-size="4">新宿区百人町 2-27-6</text>
+		<g id="f13-2-5" fill="none" stroke="blue">
+	      <ellipse cx="115.25" cy="106.75" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="118.75" cy="106.75" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="115.25" cy="110.25" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="118.75" cy="110.25" rx="1.5" ry="1.5"></ellipse>
+		</g>
+	  </g>
+	  
+	  <!-- 入力ブロック２：備考 -->
+	  <g data-tmpnum="14" letter-spacing="0">
+	    <path id="f14-2-1" fill="none" d="M239.2,105.3L240.8,106.7L242.6,104.6"></path>
+	    <text stroke="none" x="240" y="111.5">備考記入欄</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：３健康保険被保険者証の番号 -->
+	  <g data-tmpnum="3" stroke="none" font-size="4" letter-spacing="0">
+	    <text x="27" y="132">61</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：４被保険者の氏名 -->
+	  <g data-tmpnum="4" stroke="none" letter-spacing="0">
+	    <text x="47" y="119">シブヤ</text>
+	    <text x="73" y="119">タロウ</text>
+	    <text x="47" y="128">渋谷</text>
+	    <text x="61" y="128">D</text>
+	    <text x="73" y="128">太郎</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：５被保険者の生年月日 -->
+	  <g data-tmpnum="5" font-size="4" letter-spacing="1.25">
+	    <g id="f5-3-1" fill="none">
+	      <ellipse cx="97" cy="122" rx="3" ry="2"></ellipse>
+	      <ellipse cx="97" cy="126.5" rx="3" ry="2"></ellipse>
+	    </g>
+	    <text letter-spacing="2" stroke="none" x="101.5" y="127.5">530804</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：６被保険者の生年月日 -->
+	  <g data-tmpnum="6">
+	    <g id="f6-3-1" fill="none">
+	      <ellipse cx="127" cy="120" rx="2" ry="2"></ellipse>
+	      <ellipse cx="127" cy="126" rx="2" ry="2"></ellipse>
+	    </g>
+	  </g>
+	  
+	  <!-- 入力ブロック３：１０資格取得の年月日 -->
+	  <g data-tmpnum="9" stroke="none" letter-spacing="0">
+	    <text x="195" y="127.5" font-size="4" letter-spacing="2">290401</text>
+	    <text x="225" y="119">291.500</text>
+	    <text x="225" y="124">6.500</text>
+	    <text x="225" y="129">298.000</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：１１標準報酬月額 -->
+	  <g data-tmpnum="10" stroke="none" letter-spacing="0">
+	    <text x="249" y="120.5">300</text>
+	    <text x="249" y="128">300</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：１２被扶養者届の添付の有無 -->
+	  <g data-tmpnum="11">
+	    <g id="f11-3-1" fill="none">
+	      <ellipse cx="265.75" cy="121" rx="2" ry="2"></ellipse>
+	      <ellipse cx="265.75" cy="127" rx="2" ry="2"></ellipse>
+		</g>
+	  </g>
+	  
+	  <!-- 入力ブロック３：１６郵便番号 -->
+	  <g data-tmpnum="12" stroke="none" letter-spacing="2.4">
+	    <text x="51.5" y="135.5">1698516</text>
+	  </g>
+	  
+	  <!-- 入力ブロック３：被保険者住所 -->
+	  <g data-tmpnum="13" stroke="none" font-size="2" letter-spacing="0">
+	    <text x="102.5" y="134.5">トウキョウト</text>
+	    <text x="121" y="134.5">シンジュククヒャクニンチョウト 2-27-6</text>
+	    <text x="97.5" y="142" font-size="4">東京</text>
+	    <text x="121.5" y="142" font-size="4">新宿区百人町 2-27-6</text>
+		<g id="f13-3-5" fill="none" stroke="blue">
+	      <ellipse cx="115.25" cy="137.75" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="118.75" cy="137.75" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="115.25" cy="141.25" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="118.75" cy="141.25" rx="1.5" ry="1.5"></ellipse>
+		</g>
+	  </g>
+	  
+	  <!-- 入力ブロック３：備考 -->
+	  <g data-tmpnum="14" letter-spacing="0">
+	    <path id="f14-3-1" fill="none" d="M239.2,136.3L240.8,137.7L242.6,135.6"></path>
+	    <text stroke="none" x="240" y="142.5">備考記入欄</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：３健康保険被保険者証の番号 -->
+	  <g data-tmpnum="3" stroke="none" font-size="4" letter-spacing="0">
+	    <text x="27" y="163">61</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：４被保険者の氏名 -->
+	  <g data-tmpnum="4" stroke="none" letter-spacing="0">
+	    <text x="47" y="150">シブヤ</text>
+	    <text x="73" y="150">タロウ</text>
+	    <text x="47" y="159">渋谷</text>
+	    <text x="61" y="159">D</text>
+	    <text x="73" y="159">太郎</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：５被保険者の生年月日 -->
+	  <g data-tmpnum="5" font-size="4" letter-spacing="1.25">
+	    <g id="f5-4-1" fill="none">
+	      <ellipse cx="97" cy="153" rx="3" ry="2"></ellipse>
+	      <ellipse cx="97" cy="157.5" rx="3" ry="2"></ellipse>
+	    </g>
+	    <text letter-spacing="2" stroke="none" x="101.5" y="158.5">530804</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：６被保険者の生年月日 -->
+	  <g data-tmpnum="6">
+	    <g id="f6-4-1" fill="none">
+	      <ellipse cx="127" cy="151" rx="2" ry="2"></ellipse>
+	      <ellipse cx="127" cy="157" rx="2" ry="2"></ellipse>
+	    </g>
+	  </g>
+	  
+	  <!-- 入力ブロック４：１０資格取得の年月日 -->
+	  <g data-tmpnum="9" stroke="none" letter-spacing="0">
+	    <text x="195" y="158.5" font-size="4" letter-spacing="2">290401</text>
+	    <text x="225" y="150">291.500</text>
+	    <text x="225" y="155">6.500</text>
+	    <text x="225" y="160">298.000</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：１１標準報酬月額 -->
+	  <g data-tmpnum="10" stroke="none" letter-spacing="0">
+	    <text x="249" y="151.5">300</text>
+	    <text x="249" y="159">300</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：１２被扶養者届の添付の有無 -->
+	  <g data-tmpnum="11">
+	    <g id="f11-4-1" fill="none">
+	      <ellipse cx="265.75" cy="152" rx="2" ry="2"></ellipse>
+	      <ellipse cx="265.75" cy="158" rx="2" ry="2"></ellipse>
+		  </g>
+	  </g>
+	  
+	  <!-- 入力ブロック４：１６郵便番号 -->
+	  <g data-tmpnum="12" stroke="none" letter-spacing="2.4">
+	    <text x="51.5" y="166.5">1698516</text>
+	  </g>
+	  
+	  <!-- 入力ブロック４：被保険者住所 -->
+	  <g data-tmpnum="13" stroke="none" font-size="2" letter-spacing="0">
+	    <text x="102.5" y="165.5">トウキョウト</text>
+	    <text x="121" y="165.5">シンジュククヒャクニンチョウト 2-27-6</text>
+	    <text x="97.5" y="173" font-size="4">東京</text>
+	    <text x="121.5" y="173" font-size="4">新宿区百人町 2-27-6</text>
+		  <g id="f13-4-5" fill="none" stroke="blue">
+	      <ellipse cx="115.25" cy="168.75" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="118.75" cy="168.75" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="115.25" cy="172.25" rx="1.5" ry="1.5"></ellipse>
+	      <ellipse cx="118.75" cy="172.25" rx="1.5" ry="1.5"></ellipse>
+		  </g>
+	  </g>
+	  
+	  <!-- 入力ブロック４：備考 -->
+	  <g data-tmpnum="14" letter-spacing="0">
+	    <path id="f14-4-1" fill="none" d="M239.2,167.3L240.8,168.7L242.6,166.6"></path>
+	    <text stroke="none" x="240" y="173.5">備考記入欄</text>
+	  </g>
+	  
+	  <!-- 事業所所在地等 -->
+	  <g data-tmpnum="16" stroke="none" letter-spacing="0">
+	    <text x="52" y="181">000</text>
+	    <text x="62" y="181">1111</text>
+	    <text x="52" y="185">東京都○○区△△町　１－２－３</text>
+	    <text x="48" y="190">東京事業所</text>
+	    <text x="48" y="196.5">渋谷 太郎</text>
+	    <text x="72" y="204">06</text>
+	    <text x="86" y="204">2222</text>
+	    <text x="112" y="204">3333</text>
+	  </g>
+	  
+	  <!-- 提出年月日 -->
+	  <g data-tmpnum="17" stroke="none" letter-spacing="0">
+	    <text x="252" y="184.5">27</text>
+	    <text x="264.5" y="184.5">12</text>
+	    <text x="276" y="184.5">25</text>
+	  </g>
+	</g>
+	
+    <g fill="green" stroke="green" stroke-width="0.2" font-size="3">
+	  <!--
+		- 罫線
+		-->
+	  <!-- タイトル -->
+	  <g stroke="none" font-size="4">
+	    <text x="105" y="18.5">健康保険</text>
+	    <text x="133" y="19" font-size="5.5">
+		  被保険者資格取得確認<tspan font-size="4">および</tspan>標準報酬決定通知書
+		</text>
+	  </g>
+	  
+	  <!-- 厚生年金保険事業所整理番号 -->
+	  <g fill="none">
+	    <path d="M24,17 L93.5,17 M24,28.5 L33,28.5 M24,17 L24,23.5 M33,23.5 L33,34 M52,17 L52,23.5 M75,17 L75,23.5 M78.5,17 L78.5,23.5 M93.5,17 L93.5,23.5" />
+		  <path stroke-dasharray="0.2 0.2" d="M28.5,28.5 L28.5,34 M38,23.5 L38,34 M42.5,23.5 L42.5,34 M47,23.5 L47,34 M56.5,23.5 L56.5,34 M61,23.5 L61,34 M65.5,23.5 L65.5,34 M70,23.5 L70,34 M79.5,23.5 L79.5,34 M84,23.5 L84,34 M88.5,23.5 L88.5,34" />
+	  </g>
+	  <g stroke="none" font-size="2.5">
+	    <text x="25" y="20">①</text>
+			<text x="31" y="20" letter-spacing="0.5">厚生年金保険</text>
+			<text x="31" y="22.5" letter-spacing="0">事業所整理記号</text>
+	    <text x="53" y="20">②</text>
+			<text x="57.5" y="20" letter-spacing="0">厚生年金保険</text>
+			<text x="57.5" y="22.5" letter-spacing="0.6">事業所番号</text>
+	    <text x="76" y="21">A</text>
+			<text x="79.5" y="20" letter-spacing="0.7">健康保険</text>
+			<text x="79.5" y="22.5" letter-spacing="-0.5">事業所記号</text>
+			<text x="24.5" y="31">※</text>
+	  </g>
+	  
+	  <!-- 健康保険被保険者証の番号 -->
+	  <g fill="none" stroke-width="0.2">
+	    <path d="M24,34 L293,34 M24,50 L293,50 M24,34 L24,50 M35.5,34 L35.5,50 M93.5,34 L93.5,50 M123.5,34 L123.5,50 M130.5,34 L130.5,50 M142,34 L142,50 M183,34 L183,50 M189,34 L189,50 M194,34 L194,50 M218,34 L218,50 M223,34 L223,50 M245,34 L245,50 M262.5,34 L262.5,50 M268.75,34 L268.75,50 M275,34 L275,50 M281,34 L281,50 M287,34 L287,50 M293,34 L293,50 M194,34 L189,50 M293,34 L287,50" />
+		  <path stroke-dasharray="0.2 0.2" d="M142,42 L183,42 M223,39 L245,39 M223,44.5 L245,44.5" />
+	  </g>
+	  <g stroke="none" font-size="2.3">
+	    <text x="252" y="32.5" font-size="2.75">事業所→健康保険組合→事業所</text>
+	    <text x="25" y="37.5" font-size="3">③</text>
+			<text x="25" y="40.5">健康保険</text>
+			<text x="25" y="43.5">被保険者</text>
+			<text x="25" y="46.5">証の番号</text>
+			<text x="25" y="49" font-size="1.4">（年金整理番号）</text>
+			<text x="43" y="37.5" font-size="3">④</text>
+			<text x="50" y="43.5" font-size="3" letter-spacing="1.2">被保険者の氏名</text>
+			<text x="94.5" y="37.5" font-size="3">⑤</text>
+			<text x="99" y="43.5" font-size="3" letter-spacing="1.3">被保険者の</text>
+			<text x="99" y="48.5" font-size="3" letter-spacing="2.8">生年月日</text>
+			<text x="124.5" y="37.5" font-size="3">⑥</text>
+			<text x="124" y="43.5" font-size="3" letter-spacing="0">種別</text>
+			<text x="123" y="48.5" font-size="2" letter-spacing="0">（性別）</text>
+			<text x="131.5" y="37.5" font-size="3">⑦</text>
+			<text x="133" y="43.5" font-size="3" letter-spacing="0">取得</text>
+			<text x="133" y="48.5" font-size="3" letter-spacing="0">区分</text>
+			<text x="143" y="37.5" font-size="3">⑧</text>
+			<text x="151" y="39" font-size="3" letter-spacing="4">個人番号</text>
+			<text x="151" y="47" font-size="3" letter-spacing="1.3">基礎年金番号</text>
+			<text x="184" y="37.5" font-size="3">⑨</text>
+			<text x="183.5" y="43" font-size="2.5" letter-spacing="0">作成</text>
+			<text x="183.5" y="48.5" font-size="2.5" letter-spacing="0">原因</text>
+			<text x="195" y="37.5" font-size="3">⑩</text>
+			<text x="199" y="41" font-size="2.5" letter-spacing="1">資格取得の</text>
+			<text x="199" y="45" font-size="2.5" letter-spacing="5">年月日</text>
+			<text x="199" y="48.5" font-size="2" letter-spacing="0">（入社した日など）</text>
+			<text x="219" y="38" font-size="3" letter-spacing="0">報</text>
+			<text x="219" y="41" font-size="3" letter-spacing="0">酬</text>
+			<text x="219" y="44" font-size="3" letter-spacing="0">月</text>
+			<text x="219" y="47" font-size="3" letter-spacing="0">額</text>
+			<text x="224" y="37.5" font-size="2" letter-spacing="0">㋐金銭によるものの額</text>
+			<text x="224" y="42.5" font-size="2" letter-spacing="0">㋑現物によるものの額</text>
+			<text x="224" y="48" font-size="2" letter-spacing="4">㋒合計</text>
+			<text x="246" y="37.5" font-size="3">⑪</text>
+			<text x="249" y="43" font-size="3" letter-spacing="0">継承報酬</text>
+			<text x="249" y="48.5" font-size="3" letter-spacing="6">月額</text>
+			<text x="263.5" y="37" font-size="3">⑫</text>
+			<text x="263" y="40" font-size="1.75" letter-spacing="0">被扶養</text>
+			<text x="263" y="43" font-size="1.75" letter-spacing="0">者届の</text>
+			<text x="263" y="46" font-size="1.75" letter-spacing="0">添付の</text>
+			<text x="263" y="49" font-size="1.75" letter-spacing="1.75">有無</text>
+			<text x="269.75" y="37" font-size="3">⑬</text>
+			<text x="269.25" y="40" font-size="1.75" letter-spacing="0">健康保</text>
+			<text x="269.25" y="43" font-size="1.75" letter-spacing="0">険被保</text>
+			<text x="269.25" y="46" font-size="1.75" letter-spacing="0">険者証</text>
+			<text x="269.25" y="49" font-size="1.75" letter-spacing="0">の作成</text>
+			<text x="276" y="37" font-size="3">⑭</text>
+			<text x="276.25" y="40" font-size="1.75" letter-spacing="0">強制</text>
+			<text x="276.25" y="44" font-size="1.75" letter-spacing="0">付番</text>
+			<text x="276.25" y="48" font-size="1.75" letter-spacing="0">指定</text>
+			<text x="282" y="37" font-size="3">⑮</text>
+			<text x="282.25" y="40" font-size="1.75" letter-spacing="0">年金</text>
+			<text x="281.5" y="44" font-size="1.75" letter-spacing="0">手帳の</text>
+			<text x="282.25" y="48" font-size="1.75" letter-spacing="0">作成</text>
+	  </g>
+	  
+	  <!-- 入力ブロック１ -->
+	  <g fill="none" stroke-width="0.2">
+	    <path d="M35.5,58.5L93.1,58.5M100.5,57.5L100.5,68M108.5,57.5L108.5,68M116,57.5L116,68M130.5,68L142,68M155.5,53L155.5,68M169.5,53L169.5,60.5M183,60.5L176.5,68M202.5,57.5L202.5,68M210,57.5L210,68M35.5,75L77.5,75M50.5,68L50.5,81.5M78,68L78,81.5M91.5,68L91.5,81.5M238.5,68L238.5,81.5M293,68L293,81.5M91.5,73.5L293,73.5M35.5,81.5L293,81.5M60.5,71.5L63.5,71.5" />
+			<path d="M189,53L130,68M281,53L274.5,68M287.5,53L281,68" />
+			<path stroke-width="0.4" d="M24,23.5 L93.5, 23.5 M24,34 L93.5,34 M24,23.5 L24,34 M52,23.5 L52,34 M75,23.5 L75,34 M93.5,23.5,93.5,34" />
+	    <path stroke-width="0.4" d="M24,53L293,53M35.5,68L130.5,68M142,68L293,68M24,81.5L35.5,81.5M24,53L24,81.5M35.5,53L35.5,81.5M93,53L93,68M123.5,53L123.5,68M130,53L130,68M130,64L142,64M142,53L142,68M142,60.5L183,60.5M176.5,60.5L176.5,68M183,53L183,68M218,53L218,68M244.5,53L244.5,68M262.5,53L262.5,68M269,53L269,68M274.5,53L274.5,68M281,53L281,68M293,53L293,68" />
+			<path stroke-dasharray="0.2 0.2" d="M64.5,53L64.5,68M104.5,57.5L104.5,68M112.5,57.5L112.5,68M120,57.5L120,68M145.5,53L145.5,68M149,53L149,68M152.5,53L152.5,68M159,53L159,68M162.5,53L162.5,68M166,53L166,68M169.5,60.5L169.5,68M173,53L173,68M176.5,53L176.5,60.5M179.5,53L179.5,60.5M198,57.5L198,68M206,57.5L206,68M214,57.5L214,68M218,58L244.5,58M218,63L244.5,63M244.5,60.5L262.5,60.5M54,68L54,75M58,68L58,75M62,68L62,75M66,68L66,75M70,68L70,75M74,68L74,75" />
+			<use fill="green" x="188.5" y="53" xlink:href="#sousin" />
+			<use fill="green" x="287.5" y="53" xlink:href="#sousin" />
+	  </g>
+	  <g stroke="none" font-size="2.5">
+	    <text x="35.5" y="55" font-size="2">（フリガナ）</text>
+	    <text x="35.5" y="61.5">（氏）</text>
+			<text x="65" y="61.5">（名）</text>
+			<text x="95" y="61">昭5</text>
+			<text x="95" y="65.5">平7</text>
+			<text text-anchor="end" x="108" y="56">年</text>
+			<text text-anchor="end" x="116" y="56">月</text>
+			<text text-anchor="end" x="123" y="56">日</text>
+			<text x="126" y="59">1</text>
+			<text x="125.5" y="62">・</text>
+			<text x="126" y="65">2</text>
+			<text x="131.5" y="57">新1</text>
+			<text x="132" y="59.5">・</text>
+			<text x="131.5" y="62.5">再2</text>
+			<text x="137" y="57">共3</text>
+			<text x="137.5" y="59.5">・</text>
+			<text x="137" y="62.5">船4</text>
+			<text x="131" y="67">70歳以上</text>
+			<text x="183.5" y="55.5">※</text>
+			<text x="194" y="56">平成</text>
+			<text text-anchor="end" x="202.5" y="56">年</text>
+			<text text-anchor="end" x="210.5" y="56">月</text>
+			<text text-anchor="end" x="217.5" y="56">日</text>
+			<text x="219" y="56.5" font-size="3">㋐</text>
+			<text x="219" y="61.5" font-size="3">㋑</text>
+			<text x="219" y="66.5" font-size="3">㋒</text>
+			<text text-anchor="end" x="244" y="56.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="61.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="66.5" font-size="3">円</text>
+			<text x="245.5" y="56" font-size="2">健</text>
+			<text x="258" y="56" font-size="2">千円</text>
+			<text x="245.5" y="63" font-size="2">健</text>
+			<text x="258" y="63" font-size="2">千円</text>
+			<text x="264.5" y="60">無</text>
+			<text x="264.5" y="63">・</text>
+			<text x="264.5" y="66">有</text>
+			<text x="271.5" y="55.5">※</text>
+			<text x="270.5" y="60">要</text>
+			<text x="270.5" y="63">・</text>
+			<text x="269.75" y="66" font-size="2">不要</text>
+			<text x="278" y="55.5">※</text>
+			<text x="284.5" y="55.5">※</text>
+	    <text x="36" y="72.5">⑯</text>
+	    <text x="39" y="72.5" letter-spacing="-0.5">郵便番号</text>
+	    <text x="36.5" y="79.5" letter-spacing="-0.5">住所コード</text>
+	    <text x="51" y="77.5">※</text>
+	    <text x="79.5" y="72">⑰</text>
+	    <text x="79.5" y="76">被保険者</text>
+	    <text x="79.5" y="79" letter-spacing="5">住所</text>
+	    <text x="91" y="70.5" font-size="2">（フリガナ）</text>
+	    <text x="114" y="76.5" letter-spacing="1">都道</text>
+	    <text x="114" y="80" letter-spacing="1">府県</text>
+	    <text x="255" y="72" letter-spacing="17">備考</text>
+	    <text x="239.5" y="76.5" font-size="3">□</text>
+	    <text x="243" y="76.5">短時間労働者（3/4未満）</text>
+	  </g>
+	  
+	  <!-- 入力ブロック2 -->
+	  <g fill="none" stroke-width="0.2">
+	    <path d="M35.5,89.5L93.1,89.5M100.5,88.5L100.5,99M108.5,88.5L108.5,99M116,88.5L116,99M130.5,99L142,99M155.5,84L155.5,99M169.5,84L169.5,91.5M183,91.5L176.5,99M202.5,88.5L202.5,99M210,88.5L210,99M35.5,106L77.5,106M50.5,99L50.5,112.5M78,99L78,112.5M91.5,99L91.5,112.5M238.5,99L238.5,112.5M293,99L293,112.5M91.5,104.5L293,104.5M35.5,112.5L293,112.5M60.5,102.5L63.5,102.5"></path>
+			<path d="M189,84L130,99M281,84L274.5,99M287.5,84L281,99" />
+			<path stroke-width="0.4" d="M24,84L293,84M35.5,99L130.5,99M142,99L293,99M24,112.5L35.5,112.5M24,84L24,112.5M35.5,84L35.5,112.5M93,84L93,99M123.5,84L123.5,99M130,84L130,99M130,95L142,95M142,84L142,99M142,91.5L183,91.5M176.5,91.5L176.5,99M183,84L183,99M218,84L218,99M244.5,84L244.5,99M262.5,84L262.5,99M269,84L269,99M274.5,84L274.5,99M281,84L281,99M293,84L293,99"></path>
+			<path stroke-dasharray="0.2 0.2" d="M64.5,84L64.5,99M104.5,88.5L104.5,99M112.5,88.5L112.5,99M120,88.5L120,99M145.5,84L145.5,99M149,84L149,99M152.5,84L152.5,99M159,84L159,99M162.5,84L162.5,99M166,84L166,99M169.5,91.5L169.5,99M173,84L173,99M176.5,84L176.5,91.5M179.5,84L179.5,91.5M198,88.5L198,99M206,88.5L206,99M214,88.5L214,99M218,89L244.5,89M218,94L244.5,94M244.5,91.5L262.5,91.5M54,99L54,106M58,99L58,106M62,99L62,106M66,99L66,106M70,99L70,106M74,99L74,106"></path>
+			<use fill="green" x="188.5" y="84" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sousin"></use>
+			<use fill="green" x="287.5" y="84" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sousin"></use>
+	  </g>
+	  <g stroke="none" font-size="2.5">
+	    <text x="35.5" y="86" font-size="2">（フリガナ）</text>
+			<text x="35.5" y="92.5">（氏）</text>
+			<text x="65" y="92.5">（名）</text>
+			<text x="95" y="92">昭5</text>
+			<text x="95" y="96.5">平7</text>
+			<text text-anchor="end" x="108" y="87">年</text>
+			<text text-anchor="end" x="116" y="87">月</text>
+			<text text-anchor="end" x="123" y="87">日</text>
+			<text x="126" y="90">1</text>
+			<text x="125.5" y="93">・</text>
+			<text x="126" y="96">2</text>
+			<text x="131.5" y="88">新1</text>
+			<text x="132" y="90.5">・</text>
+			<text x="131.5" y="93.5">再2</text>
+			<text x="137" y="88">共3</text>
+			<text x="137.5" y="90.5">・</text>
+			<text x="137" y="93.5">船4</text>
+			<text x="131" y="98">70歳以上</text>
+			<text x="183.5" y="86.5">※</text>
+			<text x="194" y="87">平成</text>
+			<text text-anchor="end" x="202.5" y="87">年</text>
+			<text text-anchor="end" x="210.5" y="87">月</text>
+			<text text-anchor="end" x="217.5" y="87">日</text>
+			<text x="219" y="87.5" font-size="3">㋐</text>
+			<text x="219" y="92.5" font-size="3">㋑</text>
+			<text x="219" y="97.5" font-size="3">㋒</text>
+			<text text-anchor="end" x="244" y="87.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="92.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="97.5" font-size="3">円</text>
+			<text x="245.5" y="87" font-size="2">健</text>
+			<text x="258" y="87" font-size="2">千円</text>
+			<text x="245.5" y="94" font-size="2">健</text>
+			<text x="258" y="94" font-size="2">千円</text>
+			<text x="264.5" y="91">無</text>
+			<text x="264.5" y="94">・</text>
+			<text x="264.5" y="97">有</text>
+			<text x="271.5" y="86.5">※</text>
+			<text x="270.5" y="91">要</text>
+			<text x="270.5" y="94">・</text>
+			<text x="269.75" y="97" font-size="2">不要</text>
+			<text x="278" y="86.5">※</text>
+			<text x="284.5" y="86.5">※</text>
+			<text x="36" y="103.5">⑯</text>
+			<text x="39" y="103.5" letter-spacing="-0.5">郵便番号</text>
+			<text x="36.5" y="110.5" letter-spacing="-0.5">住所コード</text>
+			<text x="51" y="108.5">※</text>
+			<text x="79.5" y="103">⑰</text>
+			<text x="79.5" y="107">被保険者</text>
+			<text x="79.5" y="110" letter-spacing="5">住所</text>
+			<text x="91" y="101.5" font-size="2">（フリガナ）</text>
+			<text x="114" y="107.5" letter-spacing="1">都道</text>
+			<text x="114" y="111" letter-spacing="1">府県</text>
+			<text x="255" y="103" letter-spacing="17">備考</text>
+			<text x="239.5" y="107.5" font-size="3">□</text>
+			<text x="243" y="107.5">短時間労働者（3/4未満）</text>
+	  </g>
+	  
+	  <!-- 入力ブロック3 -->
+	  <g fill="none" stroke-width="0.2">
+	    <path d="M35.5,120.5L93.1,120.5M100.5,119.5L100.5,130M108.5,119.5L108.5,130M116,119.5L116,130M130.5,130L142,130M155.5,115L155.5,130M169.5,115L169.5,122.5M183,122.5L176.5,130M202.5,119.5L202.5,130M210,119.5L210,130M35.5,137L77.5,137M50.5,130L50.5,143.5M78,130L78,143.5M91.5,130L91.5,143.5M238.5,130L238.5,143.5M293,130L293,143.5M91.5,135.5L293,135.5M35.5,143.5L293,143.5M60.5,133.5L63.5,133.5"></path>
+			<path d="M189,115L130,130M281,115L274.5,130M287.5,115L281,130" />
+			<path stroke-width="0.4" d="M24,115L293,115M35.5,130L130.5,130M142,130L293,130M24,143.5L35.5,143.5M24,115L24,143.5M35.5,115L35.5,143.5M93,115L93,130M123.5,115L123.5,130M130,115L130,130M130,126L142,126M142,115L142,130M142,122.5L183,122.5M176.5,122.5L176.5,130M183,115L183,130M218,115L218,130M244.5,115L244.5,130M262.5,115L262.5,130M269,115L269,130M274.5,115L274.5,130M281,115L281,130M293,115L293,130"></path>
+			<path stroke-dasharray="0.2 0.2" d="M64.5,115L64.5,130M104.5,119.5L104.5,130M112.5,119.5L112.5,130M120,119.5L120,130M145.5,115L145.5,130M149,115L149,130M152.5,115L152.5,130M159,115L159,130M162.5,115L162.5,130M166,115L166,130M169.5,122.5L169.5,130M173,115L173,130M176.5,115L176.5,122.5M179.5,115L179.5,122.5M198,119.5L198,130M206,119.5L206,130M214,119.5L214,130M218,120L244.5,120M218,125L244.5,125M244.5,122.5L262.5,122.5M54,130L54,137M58,130L58,137M62,130L62,137M66,130L66,137M70,130L70,137M74,130L74,137"></path>
+			<use fill="green" x="188.5" y="115" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sousin"></use>
+			<use fill="green" x="287.5" y="115" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sousin"></use>
+	  </g>
+	  <g stroke="none" font-size="2.5">
+	    <text x="35.5" y="117" font-size="2">（フリガナ）</text>
+			<text x="35.5" y="123.5">（氏）</text>
+			<text x="65" y="123.5">（名）</text>
+			<text x="95" y="123">昭5</text>
+			<text x="95" y="127.5">平7</text>
+			<text text-anchor="end" x="108" y="118">年</text>
+			<text text-anchor="end" x="116" y="118">月</text>
+			<text text-anchor="end" x="123" y="118">日</text>
+			<text x="126" y="121">1</text>
+			<text x="125.5" y="124">・</text>
+			<text x="126" y="127">2</text>
+			<text x="131.5" y="119">新1</text>
+			<text x="132" y="121.5">・</text>
+			<text x="131.5" y="124.5">再2</text>
+			<text x="137" y="119">共3</text>
+			<text x="137.5" y="121.5">・</text>
+			<text x="137" y="124.5">船4</text>
+			<text x="131" y="129">70歳以上</text>
+			<text x="183.5" y="117.5">※</text>
+			<text x="194" y="118">平成</text>
+			<text text-anchor="end" x="202.5" y="118">年</text>
+			<text text-anchor="end" x="210.5" y="118">月</text>
+			<text text-anchor="end" x="217.5" y="118">日</text>
+			<text x="219" y="118.5" font-size="3">㋐</text>
+			<text x="219" y="123.5" font-size="3">㋑</text>
+			<text x="219" y="128.5" font-size="3">㋒</text>
+			<text text-anchor="end" x="244" y="118.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="123.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="128.5" font-size="3">円</text>
+			<text x="245.5" y="118" font-size="2">健</text>
+			<text x="258" y="118" font-size="2">千円</text>
+			<text x="245.5" y="125" font-size="2">健</text>
+			<text x="258" y="125" font-size="2">千円</text>
+			<text x="264.5" y="122">無</text>
+			<text x="264.5" y="125">・</text>
+			<text x="264.5" y="128">有</text>
+			<text x="271.5" y="117.5">※</text>
+			<text x="270.5" y="122">要</text>
+			<text x="270.5" y="125">・</text>
+			<text x="269.75" y="128" font-size="2">不要</text>
+			<text x="278" y="117.5">※</text>
+			<text x="284.5" y="117.5">※</text>
+			<text x="36" y="134.5">⑯</text>
+			<text x="39" y="134.5" letter-spacing="-0.5">郵便番号</text>
+			<text x="36.5" y="141.5" letter-spacing="-0.5">住所コード</text>
+			<text x="51" y="139.5">※</text>
+			<text x="79.5" y="134">⑰</text>
+			<text x="79.5" y="138">被保険者</text>
+			<text x="79.5" y="141" letter-spacing="5">住所</text>
+			<text x="91" y="132.5" font-size="2">（フリガナ）</text>
+			<text x="114" y="138.5" letter-spacing="1">都道</text>
+			<text x="114" y="142" letter-spacing="1">府県</text>
+			<text x="255" y="134" letter-spacing="17">備考</text>
+			<text x="239.5" y="138.5" font-size="3">□</text>
+			<text x="243" y="138.5">短時間労働者（3/4未満）</text>
+	  </g>
+	  
+	  <!-- 入力ブロック4 -->
+	  <g fill="none" stroke-width="0.2">
+	    <path d="M35.5,151.5L93.1,151.5M100.5,150.5L100.5,161M108.5,150.5L108.5,161M116,150.5L116,161M130.5,161L142,161M155.5,146L155.5,161M169.5,146L169.5,153.5M183,153.5L176.5,161M202.5,150.5L202.5,161M210,150.5L210,161M35.5,168L77.5,168M50.5,161L50.5,174.5M78,161L78,174.5M91.5,161L91.5,174.5M238.5,161L238.5,174.5M293,161L293,174.5M91.5,166.5L293,166.5M35.5,174.5L293,174.5M60.5,164.5L63.5,164.5"></path>
+			<path d="M189,146L130,161M281,146L274.5,161M287.5,146L281,161" />
+			<path stroke-width="0.4" d="M24,146L293,146M35.5,161L130.5,161M142,161L293,161M24,174.5L35.5,174.5M24,146L24,174.5M35.5,146L35.5,174.5M93,146L93,161M123.5,146L123.5,161M130,146L130,161M130,157L142,157M142,146L142,161M142,153.5L183,153.5M176.5,153.5L176.5,161M183,146L183,161M218,146L218,161M244.5,146L244.5,161M262.5,146L262.5,161M269,146L269,161M274.5,146L274.5,161M281,146L281,161M293,146L293,161"></path>
+			<path stroke-dasharray="0.2 0.2" d="M64.5,146L64.5,161M104.5,150.5L104.5,161M112.5,150.5L112.5,161M120,150.5L120,161M145.5,146L145.5,161M149,146L149,161M152.5,146L152.5,161M159,146L159,161M162.5,146L162.5,161M166,146L166,161M169.5,153.5L169.5,161M173,146L173,161M176.5,146L176.5,153.5M179.5,146L179.5,153.5M198,150.5L198,161M206,150.5L206,161M214,150.5L214,161M218,151L244.5,151M218,156L244.5,156M244.5,153.5L262.5,153.5M54,161L54,168M58,161L58,168M62,161L62,168M66,161L66,168M70,161L70,168M74,161L74,168"></path>
+			<use fill="green" x="188.5" y="146" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sousin"></use>
+			<use fill="green" x="287.5" y="146" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sousin"></use>
+	  </g>
+	  <g stroke="none" font-size="2.5">
+	    <text x="35.5" y="148" font-size="2">（フリガナ）</text>
+			<text x="35.5" y="154.5">（氏）</text>
+			<text x="65" y="154.5">（名）</text>
+			<text x="95" y="154">昭5</text>
+			<text x="95" y="158.5">平7</text>
+			<text text-anchor="end" x="108" y="149">年</text>
+			<text text-anchor="end" x="116" y="149">月</text>
+			<text text-anchor="end" x="123" y="149">日</text>
+			<text x="126" y="152">1</text>
+			<text x="125.5" y="155">・</text>
+			<text x="126" y="158">2</text>
+			<text x="131.5" y="150">新1</text>
+			<text x="132" y="152.5">・</text>
+			<text x="131.5" y="155.5">再2</text>
+			<text x="137" y="150">共3</text>
+			<text x="137.5" y="152.5">・</text>
+			<text x="137" y="155.5">船4</text>
+			<text x="131" y="160">70歳以上</text>
+			<text x="183.5" y="148.5">※</text>
+			<text x="194" y="149">平成</text>
+			<text text-anchor="end" x="202.5" y="149">年</text>
+			<text text-anchor="end" x="210.5" y="149">月</text>
+			<text text-anchor="end" x="217.5" y="149">日</text>
+			<text x="219" y="149.5" font-size="3">㋐</text>
+			<text x="219" y="154.5" font-size="3">㋑</text>
+			<text x="219" y="159.5" font-size="3">㋒</text>
+			<text text-anchor="end" x="244" y="149.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="154.5" font-size="3">円</text>
+			<text text-anchor="end" x="244" y="159.5" font-size="3">円</text>
+			<text x="245.5" y="149" font-size="2">健</text>
+			<text x="258" y="149" font-size="2">千円</text>
+			<text x="245.5" y="156" font-size="2">健</text>
+			<text x="258" y="156" font-size="2">千円</text>
+			<text x="264.5" y="153">無</text>
+			<text x="264.5" y="156">・</text>
+			<text x="264.5" y="159">有</text>
+			<text x="271.5" y="148.5">※</text>
+			<text x="270.5" y="153">要</text>
+			<text x="270.5" y="156">・</text>
+			<text x="269.75" y="159" font-size="2">不要</text>
+			<text x="278" y="148.5">※</text>
+			<text x="284.5" y="148.5">※</text>
+			<text x="36" y="165.5">⑯</text>
+			<text x="39" y="165.5" letter-spacing="-0.5">郵便番号</text>
+			<text x="36.5" y="172.5" letter-spacing="-0.5">住所コード</text>
+			<text x="51" y="170.5">※</text>
+			<text x="79.5" y="165">⑰</text>
+			<text x="79.5" y="169">被保険者</text>
+			<text x="79.5" y="172" letter-spacing="5">住所</text>
+			<text x="91" y="163.5" font-size="2">（フリガナ）</text>
+			<text x="114" y="169.5" letter-spacing="1">都道</text>
+			<text x="114" y="173" letter-spacing="1">府県</text>
+			<text x="255" y="165" letter-spacing="17">備考</text>
+			<text x="239.5" y="169.5" font-size="3">□</text>
+			<text x="243" y="169.5">短時間労働者（3/4未満）</text>
+	    <text x="166" y="178.5" font-size="3">平成</text>
+	    <text x="179" y="178.5" font-size="3" letter-spacing="6">年月日</text>
+	    <text x="204" y="178.5" font-size="3">提出</text>
+	  </g>
+	  
+	  <!-- 事業所所在地 -->
+	  <g fill="none" stroke-width="0.2">
+	    <path d="M24,177L140,177M24,207L140,207M24,177L24,207M45,177L45,207M140,177L140,207" />
+	    <circle cx="130" cy="196" r="2" />
+	  </g>
+	  <g stroke="none" font-size="2.5">
+	    <text x="26.5" y="183" letter-spacing="0">事業所所在地</text>
+	    <text x="26.5" y="189.5" letter-spacing="0.5">事業所名称</text>
+	    <text x="26.5" y="196" letter-spacing="0.5">事業主氏名</text>
+	    <text x="26.5" y="202.5" letter-spacing="11">電話</text>
+	    <text x="48" y="181">〒</text>
+	    <text x="59" y="181">-</text>
+	    <text x="129" y="197">印</text>
+	    <text x="80" y="204">（　　　　　　局）</text>
+	    <text x="125" y="204">番</text>
+	  </g>
+	  
+	  <!-- 右下 -->
+	  <g stroke="none" font-size="3">
+	    <text x="165" y="178">上記の通り資格取得の確認および標準報酬を決定したので通知します。</text>
+	    <text x="243.5" y="185">平成　　　年　　　月　　　日</text>
+	    <text font-size="4" x="212" y="193">関東ＩＴソフトウェア健康保険組合理事長</text>
+	    <text font-size="2.5" x="160" y="198">この通知書を受け取ったら、すみやかに確認された資格所得年月日および決定された標準報酬月額をそれぞれの被</text>
+	    <text font-size="2.5" x="160" y="201">保険者に通知してください。</text>
+		<text font-size="2.5" x="160" y="204">また健康保険被保険者証を本人に交付する際は、その裏面の住所欄に直ちに現住所を明確に自筆させてください。</text>
+	    <text font-size="2.5" x="271.5" y="208">平成29年2月1日改訂</text>
+	  </g>
+	  
+	  <!-- 健康保険被保険者証の番号 -->
+	  <g fill="none">
+	    <circle cx="11.5" cy="37" r="5" />
+	  </g>
+	  <g stroke="none" font-size="1.5" letter-spacing="0">
+	    <text x="12" y="35" writing-mode="tb-rl" font-size="5">副</text>
+	    <text x="23" y="45" writing-mode="tb-rl">　この通知書のことでわからないことがあるときは当組合へお尋ねください。</text>
+	    <text x="21" y="45" writing-mode="tb-rl">　この処分に不服があるときは、処分があったことを知った日の翌日から起算して３か月以内に文書又は口頭で社会保険審査官（関東信越厚生局内）に対して審査請求を</text>
+		<text x="19" y="45" writing-mode="tb-rl">することができます。また、審査請求の決定に不服があるときは、再審査請求又は処分の取消しの訴えを提起することができます。</text>
+		<text x="17" y="45" writing-mode="tb-rl">　再審査請求は、審査官の決定書の謄本が送付された日の翌日から起算して２か月以内に文書又は口頭で社会保険審査会（厚生労働省内）に対して行うことができ、</text>
+		<text x="15" y="45" writing-mode="tb-rl">処分の取消しの訴えは、審査請求の決定があったことを知った日から６か月以内（再審査請求があったときは、その裁決があったことを知った日から６か月以内）に、</text>
+		<text x="13" y="45" writing-mode="tb-rl">健康保険組合を被告として提起することができます。（ただし、原則として、決定又は裁決の日から１年を経過したときは、提起することができなくなります。）</text>
+		<text x="11" y="45" writing-mode="tb-rl">　なお、審査請求があった日から２か月を経過しても決定がないときや、処分の執行等による著しい損害を避けるため緊急の必要があるとき、その他正当な理由が</text>
+		<text x="9" y="45" writing-mode="tb-rl">あるときは、審査請求の決定を経なくても提起することができます。</text>
+	  </g>
+	</g>
+	
+	<path id="path" stroke="purple" fill="none" d="" />
+</svg>
