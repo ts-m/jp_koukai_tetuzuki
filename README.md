@@ -9,8 +9,6 @@ SVG の構文は 互換性維持とLinuxサーバ上での容易な変換を可�
 transform など、いくつかの高度な機能は意図的に使用していません。
 このためところどころ冗長な記述が存在します。
 
-[一覧](index.md)
-
 
 ### フォント
 
@@ -55,4 +53,8 @@ rsvg-convert --dpi-x=96 --dpi-y=96 -f pdf -o output.pdf  input1.svg input2.svg .
 また書類を印字して提出するなどした場合に問題が発生したとしても責任は負えません。
 特に自署が必要な署名や印章について複製した用紙は無効とみなされる場合があります。
 各用紙に関連する注意事項をご確認の上ご利用ください。
+
+[e-Gov 行政手続案内](http://shinsei.e-gov.go.jp/search/servlet/Procedure?CLASSNAME=GTAEGOVMSTSEARCH)における手続を対象として含めます。
+その他の特定の地域に特化した手続については含めません。
+[ファイル一覧](index.md)
 
