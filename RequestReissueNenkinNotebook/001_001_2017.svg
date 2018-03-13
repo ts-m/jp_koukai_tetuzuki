@@ -1,0 +1,378 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="297mm" height="210mm"
+    viewBox="0 0 297 210">
+  <!--
+    - 背景
+    -->
+  <g>
+    <rect x="0" y="0" width="100%" height="100%" fill="white" />
+  </g>
+
+  <!--
+    - 調整線
+    -->
+  <g fill="none" stroke="none" stroke-width="0.1">
+    <path d="M45.5,0L45.5,999M0,17.5L999,17.5" />
+    <path d="M275.1,0L275.1,999M0,185L999,185" />
+  </g>
+  
+  <!--
+    - 罫線
+    -->
+  <g id="frame" fill="black" stroke="black" stroke-width="0.2" font-size="2">
+    <!-- タイトル -->
+    <g stroke="none" font-size="6">
+      <text x="111.3" y="31">年金手帳再交付申請書</text>
+    </g>
+    
+    <!-- 届書コード -->
+    <g fill="none">
+      <path d="M45.5,17.7L88.7,17.7M45.5,22.4L81.5,22.4M45.5,29.1L88.7,29.1M45.5,17.7L45.5,29.1M67.3,17.7L67.3,29.1M81.5,17.7L81.5,29.1M88.7,17.7L88.7,29.1" />
+      <path stroke-dasharray="0.2 0.2" d="M52.8,22.4L52.8,29.1M60.1,22.4L60.1,29.1" />
+      <path stroke-width="0.4" d="M45.5,22.4L81.5,22.4M45.5,29.1L88.7,29.1M45.5,22.4L45.5,29.1M81.5,22.4L81.5,29.1" />
+    </g>
+    <g stroke="none" font-size="3">
+      <rect x="81.5" y="17.7" width="7.2" height="11.4" />
+      <path fill="white" opacity="1" d="M85.1,18.4C87.1,18.4 88.1,19.4 88.1,20.4L88.1,26.4C88.1,27.4 87.1,28.4 85.1,28.4C83.1,28.4 82.1,27.4 82.1,26.4L82.1,20.4C82.1,19.4 83.1,18.4 85.1,18.4Z" />
+      <text text-anchor="middle" x="85.1" y="22.4">届</text>
+      <text text-anchor="middle" x="85.1" y="25.4">書</text>
+    </g>
+    <g stroke="none" font-size="3">
+      <text text-anchor="middle" x="56.4" y="20.55">届書コード</text>
+      <text text-anchor="middle" x="74.4" y="20.55">大区分</text>
+      <text text-anchor="middle" x="49.15" y="26.25">2</text>
+      <text text-anchor="middle" x="56.45" y="26.25">0</text>
+      <text text-anchor="middle" x="63.7" y="26.25">6</text>
+      <text text-anchor="middle" x="74.4" y="26.25">2</text>
+    </g>
+    
+    <!-- 上長印 -->
+    <g fill="none">
+      <path d="M194,17.7L275.2,17.7M194,22.7L275.2,22.7M194,35.9L275.2,35.9M194,17.7L194,35.9M214.3,17.7L214.3,35.9M234.6,17.7L234.6,35.9M254.9,17.7L254.9,35.9M275.2,17.7L275.2,35.9" />
+    </g>
+    <g stroke="none" font-size="1.5" letter-spacing="0">
+      <text text-anchor="middle" x="203.15" y="19.7">事務センター長</text>
+      <text text-anchor="middle" x="204.15" y="21.2">所長</text>
+      <text text-anchor="middle" x="223.45" y="19.7">副事務センター長</text>
+      <text text-anchor="middle" x="224.45" y="21.2">副所長</text>
+      <text text-anchor="middle" x="243.75" y="19.7">グループ長</text>
+      <text text-anchor="middle" x="244.75" y="21.2">課長</text>
+      <text text-anchor="middle" x="265.05" y="20.45">担当者</text>
+    </g>
+    
+    <!-- 入力エリア -->
+    <g fill="none">
+      <path d="M45.5,39.6L275.2,39.6M45.5,45.5L187.4,45.5M45.5,58.9L275.2,58.9M45.5,64.5L145.4,64.5M45.5,81.3L275.2,81.3M95.6,91.5L275.2,91.5M45.5,101.5L275.2,101.5M95.6,111.3L275.2,111.3M45.5,121.4L275.2,121.4M45.5,138.8L275.2,138.8M45.5,39.6,45.5,138.8M117.5,39.6L117.5,58.9M187.4,39.6L187.4,58.9M194.2,39.6L194.2,58.9M207.1,39.6L207.1,58.9M227.5,39.6L227.5,58.9M248,39.6L248,58.9M268.2,39.6L268.2,58.9M275.2,39.6L275.2,138.8M74.3,45.5L74.3,58.8M145.4,45.5L145.4,81.3M159.3,45.5L159.3,81.3M173.4,45.5L173.4,58.9M131.9,58.9L131.9,81.3M95.6,81.3L95.6,138.8M117.5,81.3L117.5,138.8M213.9,91.5L213.9,101.5M234.2,91.5L234.2,101.5M159.3,121.4L159.3,138.8M180.1,121.4L180.1,138.8M213.9,121.4L213.9,138.8M234.2,121.4L234.2,138.8" />
+      <path stroke-dasharray="0.2 0.2" d="M45.5,68.9L131.9,68.9M159.3,64.5L275.2,64.5M52.8,45.5L52.8,58.9M60,45.5L60,58.9M67.1,45.5L67.1,58.9M81.5,45.5L81.5,58.9M88.7,45.5L88.7,58.9M95.9,45.5L95.9,58.9M103.1,45.5L103.1,58.9M110.3,45.5L110.3,58.9M152.4,45.5L152.4,58.9M166.3,45.5L166.3,58.9M180.3,45.5L180.3,58.9M88.7,64.5L88.7,81.3" />
+    </g>
+    <g stroke="none" font-size="3">
+      <rect x="187.4" y="39.6" width="6.8" height="19.3" />
+      <path fill="white" opacity="1" d="M190.8,40.25C192.8,40.25 193.8,41.25 193.8,42.25L193.8,56.25C193.8,57.25 192.8,58.25 190.8,58.25C188.8,58.25 187.8,57.25 187.8,56.25L187.8,42.25C187.8,41.25 188.8,40.25 190.8,40.25Z" />
+      <text text-anchor="middle" x="190.8" y="48.25">送</text>
+      <text text-anchor="middle" x="190.8" y="51.25">信</text>
+    </g>
+    <g stroke="none" font-size="3">
+      <rect x="268.2" y="39.6" width="7" height="19.3" />
+      <path fill="white" opacity="1" d="M271.7,40.25C273.7,40.25 274.7,41.25 274.7,42.25L274.7,56.25C274.7,57.25 273.7,58.25 271.7,58.25C269.7,58.25 268.7,57.25 268.7,56.25L268.7,42.25C268.7,41.25 269.7,40.25 271.7,40.25Z" />
+      <text text-anchor="middle" x="271.7" y="48.25">送</text>
+      <text text-anchor="middle" x="271.7" y="51.25">信</text>
+    </g>
+    <g stroke="none" font-size="3">
+      <text x="46.5" y="43.05">①</text>
+      <text text-anchor="middle" x="81.5" y="43.05">年金手帳の基礎年金番号</text>
+      <text x="118.5" y="43.05">②</text>
+      <text text-anchor="middle" x="152.45" y="43.05">生年月日</text>
+      <text x="118.5" y="48">★</text>
+      <text text-anchor="middle" x="131.45" y="48.4">明治．1</text>
+      <text text-anchor="middle" x="131.45" y="51.4">大正．3</text>
+      <text text-anchor="middle" x="131.45" y="54.4">昭和．5</text>
+      <text text-anchor="middle" x="131.45" y="57.4">平成．7</text>
+      <text font-size="2" text-anchor="end" x="158.8" y="47">年</text>
+      <text font-size="2" text-anchor="end" x="172.9" y="47">月</text>
+      <text font-size="2" text-anchor="end" x="186.9" y="47">日</text>
+      <text x="195.2" y="43.05">③</text>
+      <text text-anchor="middle" x="200.65" y="49.75">事由</text>
+      <text x="208.1" y="43.05">★</text>
+      <text font-size="2.5" letter-spacing="-0.5" x="208.1" y="47.9">1. 紛失</text>
+      <text font-size="2.5" letter-spacing="-0.5" x="208.1" y="50.9">2. 破損（汚れ）</text>
+      <text font-size="2.5" letter-spacing="-0.5" x="208.1" y="53.9">3. その他</text>
+      <text x="228.5" y="43.05">④</text>
+      <text text-anchor="middle" x="237.75" y="48.25">年金手帳</text>
+      <text text-anchor="middle" x="237.75" y="51.25">交付要否</text>
+      <text x="249" y="43.05">※</text>
+      <text text-anchor="middle" x="258.1" y="48.25">0. 交付要</text>
+      <text text-anchor="middle" x="258.1" y="51.25">1. 交付否</text>
+      <text x="46.5" y="62.2">㋐</text>
+      <text text-anchor="middle" x="88.7" y="62.2">氏名</text>
+      <text font-size="2" x="46.5" y="66.7">（フリガナ）</text>
+      <text font-size="2" x="46.5" y="70.4">（氏）</text>
+      <text font-size="2" x="89.7" y="70.4">（名）</text>
+      <use x="126.9" y="75.1" xlink:href="#c-stamp-m" />
+      <text x="132.9" y="62.2">㋑</text>
+      <text x="136.9" y="62.2">性別</text>
+      <text text-anchor="middle" x="138.65" y="71.4">男．1</text>
+      <text text-anchor="middle" x="138.65" y="75.4">女．2</text>
+      <text x="146.4" y="62.2">㋒</text>
+      <text text-anchor="middle" x="152.35" y="70.6">住所</text>
+      <text font-size="2" x="160.3" y="61.7">（フリガナ）</text>
+      <text x="214.9" y="79.3">電話</text>
+      <text x="234.9" y="79.3">（</text>
+      <text x="254.9" y="79.3">）</text>
+      <text x="46.5" y="84.3">㋓</text>
+      <text x="46.5" y="88.3">最初に被保険者として使用されて</text>
+      <text x="46.5" y="91.3">いた事業所の名称、所在地（又は</text>
+      <text x="46.5" y="94.3">船舶所有者の氏名、住所）及び、</text>
+      <text x="46.5" y="97.3">取得年月日</text>
+      <text text-anchor="middle" x="106.55" y="85.4">名称</text>
+      <text text-anchor="middle" x="106.55" y="88.4">（氏名）</text>
+      <text text-anchor="middle" x="106.55" y="95.5">所在地</text>
+      <text text-anchor="middle" x="106.55" y="98.5">（住所）</text>
+      <text text-anchor="middle" x="224.05" y="97">取得年月日</text>
+      <text text-anchor="end" x="254.2" y="97">年</text>
+      <text text-anchor="end" x="264.2" y="97">月</text>
+      <text text-anchor="end" x="274.2" y="97">日</text>
+      <text x="46.5" y="104.5">㋔</text>
+      <text x="46.5" y="108.5">現に被保険者として使用されてい</text>
+      <text x="46.5" y="111.5">る（又は最後に被保険者として使</text>
+      <text x="46.5" y="114.5">用された）事業所の名称、所在地</text>
+      <text x="46.5" y="117.5">（又は船舶所有者の氏名、住所）</text>
+      <text text-anchor="middle" x="106.55" y="105.4">名称</text>
+      <text text-anchor="middle" x="106.55" y="108.4">（氏名）</text>
+      <text text-anchor="middle" x="106.55" y="115.35">所在地</text>
+      <text text-anchor="middle" x="106.55" y="118.35">（住所）</text>
+      <text x="46.5" y="124.4">㋕</text>
+      <text x="46.5" y="128.4">現に加入している（又は最後に加</text>
+      <text x="46.5" y="131.4">入していた）制度の名称及び取得・</text>
+      <text x="46.5" y="134.4">喪失年月日</text>
+      <text text-anchor="middle" x="106.55" y="130.6">制度の名称</text>
+      <text x="118.5" y="124.4">★</text>
+      <text x="122.5" y="125.6">1. 国民年金</text>
+      <text x="122.5" y="129.1">2. 厚生年金保険</text>
+      <text x="122.5" y="132.6">3. 船員保険</text>
+      <text x="122.5" y="136.1">4. 共済組合</text>
+      <text text-anchor="middle" x="169.7" y="130.6">取得年月日</text>
+      <text text-anchor="end" x="192.9" y="130.6">年</text>
+      <text text-anchor="end" x="202.9" y="130.6">月</text>
+      <text text-anchor="end" x="212.9" y="130.6">日</text>
+      <text text-anchor="middle" x="224.05" y="130.6">喪失年月日</text>
+      <text text-anchor="end" x="254.2" y="130.6">年</text>
+      <text text-anchor="end" x="264.2" y="130.6">月</text>
+      <text text-anchor="end" x="274.2" y="130.6">日</text>
+    </g>
+    
+    <!-- 事業所所在地等 -->
+    <g fill="none">
+      <path d="M45.5,143.3L138.5,143.3M45.5,185L138.5,185M45.5,143.3L45.5,185M138.5,143.3L138.5,185" />
+    </g>
+    <g stroke="none" font-size="3">
+      <text x="46.5" y="146.3">㋖上記のとおり被保険者から再交付申請がありましたので、</text>
+      <text x="46.5" y="149.3">　届出いたします。</text>
+      <text x="46.5" y="154.9">事業所所在地</text>
+      <text x="65.2" y="154.9">〒</text>
+      <text x="46.5" y="168.9">事業所名称</text>
+      <text x="46.5" y="176.9">事業主氏名</text>
+      <text x="81.6" y="182.9">電話</text>
+      <text x="97.4" y="182.9">（</text>
+      <text x="113.8" y="182.9">）</text>
+      <use x="133.5" y="175.9" xlink:href="#c-stamp-m" />
+    </g>
+    
+    <!-- 社会保険労務士の提出代行者印 -->
+    <g fill="none">
+      <path d="M145.4,167.4L214.3,167.4M145.4,172.3L214.3,172.3M145.4,185L214.3,185M145.4,167.4L145.4,185M214.3,167.4L214.3,185" />
+      <path stroke-dasharray="0.2 0.2" d="M207.3,172.3L207.3,185" />
+    </g>
+    <g stroke="none" font-size="3">
+      <text text-anchor="middle" x="179.85" y="170.35">㋗社会保険労務士の提出代行者印</text>
+      <use x="210.8" y="178.65" xlink:href="#c-stamp-m" />
+    </g>
+    
+    <!-- 受付印 -->
+    <g fill="none">
+      <path d="M220.4,152L275.2,152M220.4,156.9L275.2,156.9M220.4,161.7L275.2,161.7M220.4,185L275.2,185M220.4,152L220.4,185M275.2,152L275.2,185M247.8,156.9L247.8,185" />
+    </g>
+    <g stroke="none" font-size="3">
+      <text text-anchor="middle" x="247.8" y="154.95">受付印</text>
+      <text text-anchor="middle" x="234.1" y="159.8">市区町村</text>
+      <text text-anchor="middle" x="261.5" y="159.8">年金事務所</text>
+    </g>
+    
+    <!-- 提出年月日 -->
+    <g stroke="none">
+      <text x="234.2" y="141.8">平成</text>
+      <text x="246.2" y="141.8">年</text>
+      <text x="256.2" y="141.8">月</text>
+      <text x="266.2" y="141.8">日　提出</text>
+    </g>
+
+    <!-- 注意書き等 -->
+    <g stroke="none" font-size="3">
+      <text writing-mode="tb-rl" x="43.5" y="40.6">◎年金手帳を破いたり、又は汚したりした場合の申請であるときは、</text>
+      <text writing-mode="tb-rl" x="40.5" y="40.6">　この申請書にその年金手帳を添えてください。</text>
+      <text writing-mode="tb-rl" x="37.5" y="40.6">◎「★」印欄は該当する項目を〇で囲んでください。</text>
+      <text writing-mode="tb-rl" x="34.5" y="40.6">◎「※」印欄は記入しないでください。</text>
+      <text writing-mode="tb-rl" x="31.5" y="40.6">◎国民年金、又は共済組合に加入されている方は、㋓、㋔、㋖、㋗の記入は必要ありません。</text>
+      <text writing-mode="tb-rl" x="28.5" y="40.6">◎被保険者が自ら署名する場合には、被保険者の押印は不要です。</text>
+      <text writing-mode="tb-rl" x="25.5" y="40.6">　なお、被保険者以外の方の押印を省略することはできません。</text>
+      <text writing-mode="tb-rl" x="22.5" y="40.6">◎事業主の押印については、署名（自筆）の場合は省略できます。</text>
+      <text font-size="2" x="261.1" y="197.6">1408 1017 074</text>
+    </g>
+  </g>
+  
+  <!--
+    - 入力
+    -->
+  <g id="forms" fill="blue" stroke="blue" stroke-width="0.2" font-size="3" font-family="monospace">
+    <!-- 年金手帳の基礎年金番号 -->
+    <g stroke="none">
+      <text letter-spacing="5.7" x="49.8" y="56.9">0123012345</text>
+    </g>
+    
+    <!-- 生年月日 -->
+    <g fill="none">
+      <ellipse cx="131.45" cy="48.4" rx="4" ry="1.5" />
+      <ellipse cx="131.45" cy="51.4" rx="4" ry="1.5" />
+      <ellipse cx="131.45" cy="54.4" rx="4" ry="1.5" />
+      <ellipse cx="131.45" cy="57.4" rx="4" ry="1.5" />
+    </g>
+    <g stroke="none">
+      <text letter-spacing="5" x="149.4" y="56.9">01</text>
+      <text letter-spacing="5" x="163.3" y="56.9">01</text>
+      <text letter-spacing="5" x="177.3" y="56.9">01</text>
+    </g>
+    
+    <!-- 事由 -->
+    <g fill="none">
+      <ellipse cx="214.1" cy="47.9" rx="4" ry="1.5" />
+      <ellipse cx="214.1" cy="50.9" rx="4" ry="1.5" />
+      <ellipse cx="214.1" cy="53.9" rx="4" ry="1.5" />
+    </g>
+    
+    <!-- 氏名 -->
+    <g stroke="none">
+      <text font-size="2" x="58.5" y="66.7">ホケン</text>
+      <text font-size="2" x="93.7" y="66.7">タロウ</text>
+      <text x="50.5" y="75.6">保険</text>
+      <text text-anchor="end" x="87.7" y="75.6">D</text>
+      <text x="93.7" y="75.6">太郎</text>
+    </g>
+    
+    <!-- 性別 -->
+    <g fill="none">
+      <ellipse cx="138.65" cy="71.4" rx="4" ry="1.5" />
+      <ellipse cx="138.65" cy="75.4" rx="4" ry="1.5" />
+    </g>
+    
+    <!-- 住所 -->
+    <g stroke="none">
+      <text font-size="2" x="172.3" y="62.5">トウキョウト　◯◯ク　◯◯チョウ</text>
+      <text x="160.3" y="75.3">東京都◯◯区◯◯町　１－２－３</text>
+      <text x="229.9" y="79.3">03</text>
+      <text x="239.9" y="79.3">0000</text>
+      <text x="259.9" y="79.3">1111</text>
+    </g>
+    
+    <!-- 最初に～ -->
+    <g stroke="none">
+      <text x="118.5" y="86.9">◯◯事業所</text>
+      <text x="118.5" y="97">東京都◯◯区◯◯町　１－２－３</text>
+      <text text-anchor="end" x="250.2" y="97">01</text>
+      <text text-anchor="end" x="260.2" y="97">01</text>
+      <text text-anchor="end" x="270.2" y="97">01</text>
+    </g>
+    
+    <!-- 現に～ -->
+    <g stroke="none">
+      <text x="118.5" y="106.9">◯◯事業所</text>
+      <text x="118.5" y="116.85">東京都◯◯区◯◯町　１－２－３</text>
+    </g>
+    
+    <!-- 制度の名称 -->
+    <g fill="none">
+      <ellipse cx="128.5" cy="125.6" rx="6" ry="1.5" />
+      <ellipse cx="128.5" cy="129.1" rx="6" ry="1.5" />
+      <ellipse cx="128.5" cy="132.6" rx="6" ry="1.5" />
+      <ellipse cx="128.5" cy="136.1" rx="6" ry="1.5" />
+    </g>
+    
+    <!--取得年月日  -->
+    <g stroke="none">
+      <text text-anchor="end" x="188.9" y="130.6">01</text>
+      <text text-anchor="end" x="198.9" y="130.6">01</text>
+      <text text-anchor="end" x="208.9" y="130.6">01</text>
+    </g>
+    
+    <!--喪失年月日  -->
+    <g stroke="none">
+      <text text-anchor="end" x="250.2" y="130.6">01</text>
+      <text text-anchor="end" x="260.2" y="130.6">01</text>
+      <text text-anchor="end" x="270.2" y="130.6">01</text>
+    </g>
+    
+    <!-- 事業所所在地 -->
+    <g stroke="none">
+      <text x="68.2" y="154.9">000-1111</text>
+      <text x="65.2" y="158.9">東京都◯◯区◯◯町　１－２－３</text>
+      <text x="65.2" y="168.9">◯◯事業所</text>
+      <text x="65.2" y="176.9">保険　太郎</text>
+      <text x="92.4" y="182.9">03</text>
+      <text x="100.4" y="182.9">0000</text>
+      <text x="115.8" y="182.9">1111</text>
+    </g>
+
+    <!-- 社会保険労務士の提出代行者印 -->
+    <g stroke="none">
+      <text x="146.4" y="179.15">社会保険労務士の提出代行者印</text>
+    </g>
+    
+    <!-- 提出年月日 -->
+    <g stroke="none">
+      <text x="241.2" y="141.8">01</text>
+      <text x="251.2" y="141.8">01</text>
+      <text x="261.2" y="141.8">01</text>
+    </g>
+  </g>
+  
+  <defs>
+    <g id="c-a" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">A</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-b" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">B</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-c" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">C</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-d" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">D</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-e" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-0.5">E</text>
+      <circle fill="none" cx="0.5" cy="-0.5" r="1" />
+    </g>
+    <g id="c-mi" fill="black" stroke="black">
+      <text font-size="1.5" stroke="none" x="0.2" y="0.2">ミ</text>
+      <circle fill="none" stroke-width="0.05" cx="0.9" cy="0" r="0.9" />
+    </g>
+    <g id="c-mu" fill="black" stroke="black">
+      <text font-size="1.5" stroke="none" x="0.2" y="0.2">ム</text>
+      <circle fill="none" stroke-width="0.05" cx="0.9" cy="0" r="0.9" />
+    </g>
+    <g id="c-stamp" fill="black" stroke="black">
+      <text stroke="none" x="0" y="-1">印</text>
+      <circle fill="none" cx="1" cy="-1" r="2" />
+    </g>
+    <g id="c-stamp-m" fill="black" stroke="black">
+      <text font-size="3" stroke="none" text-anchor="middle" x="0" y="0.5">印</text>
+      <circle fill="none" cx="0" cy="0" r="2" />
+    </g>
+  </defs>
+</svg>

@@ -3,3 +3,4 @@
 - 厚生年金保険
    - [健康保険/厚生年金保険 被保険者報酬月額算定基礎届 総括表附表（雇用に関する調査票）      ](WelfarePensionInsurance/MonthlySalaryCalcBase_Summary/001_001_2017.svg)
    - [健康保険/厚生年金保険 被保険者報酬月額算定基礎届 総括表附表（雇用に関する調査票）-2枚目](WelfarePensionInsurance/MonthlySalaryCalcBase_Summary/001_002_2017.svg)
+- [年金手帳再交付申告書](RequestReissueNenkinNotebook/001_001_2017.svg)
